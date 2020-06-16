@@ -353,7 +353,7 @@
 	[tweaks.improved_sleeping]
 		"Enable Afk" = true
 		"Afk Time" = 2400
-		"Percent Req" = 1.0
+		"Percent Req" = 0.3
 
 	[tweaks.emotes]
 		#The enabled default emotes. Remove from this list to disable them. You can also re-order them, if you feel like it.
