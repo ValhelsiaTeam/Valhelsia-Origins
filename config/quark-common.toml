@@ -1129,7 +1129,7 @@
 		"Shulker Box Use Colors" = true
 		"Shulker Tooltips" = true
 		"Map Require Shift" = false
-		"Attribute Tooltips" = true
+		"Attribute Tooltips" = false
 		"Enchanting Tooltips" = true
 		#The value of each shank of food. Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
@@ -1139,8 +1139,8 @@
 		#So to display a carrot on a stick on a mending book, for example, you use:
 		#minecraft:mending=minecraft:carrot_on_a_stick
 		"Enchanting Additional Stacks" = []
-		"Food Tooltips" = true
-		"Show Saturation" = true
+		"Food Tooltips" = false
+		"Show Saturation" = false
 		"Map Tooltips" = true
 		"Enchanting Stacks" = ["minecraft:diamond_sword", "minecraft:diamond_pickaxe", "minecraft:diamond_shovel", "minecraft:diamond_axe", "minecraft:diamond_hoe", "minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots", "minecraft:shears", "minecraft:bow", "minecraft:fishing_rod", "minecraft:crossbow", "minecraft:trident", "minecraft:elytra", "quark:pickarang"]
 
