@@ -33,7 +33,7 @@
 ["Amount of RAM Recommended for Game to Start"]
 	#The amount of RAM recommended for stable gameplay.
 	#Range: 128 ~ 51200
-	"#1) Ram Recommended (IN MB)" = 5120
+	"#1) Ram Recommended (IN MB)" = 4608
 	#If the player has less than the recommended amount of RAM assigned to the modpack then a warning will be displayed when the game is started.
 	"#2) Check RAM meets recommendation?" = true
 	#The custom message to be displayed if you have set the previous setting to 'True'. Will display custom message instead of the default text.
