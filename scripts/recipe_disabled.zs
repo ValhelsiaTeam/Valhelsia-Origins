@@ -15,3 +15,9 @@
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_black>);
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_brown>);
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_red>);
+<recipetype:crafting>.removeRecipe(<item:immersiveengineering:ingot_copper>);
+<recipetype:crafting>.removeRecipe(<item:immersiveengineering:nugget_copper>);
+<recipetype:crafting>.removeRecipe(<item:immersiveengineering:ore_copper>);
+<recipetype:crafting>.removeRecipe(<item:immersiveengineering:plate_copper>);
+<recipetype:blasting>.removeRecipe(<item:immersiveengineering:ingot_copper>);
+<recipetype:smelting>.removeRecipe(<item:immersiveengineering:ingot_copper>);
