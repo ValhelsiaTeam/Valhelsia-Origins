@@ -1,0 +1,52 @@
+{
+	"variants": [
+		{
+			"key": "heater/driftwood",
+			"durability": 204,
+			"integrity": -1,
+			"magicCapacity": 132,
+			"effects": {
+				"blocking": [
+					2,
+					4
+				]
+			},
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 32,
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_heater",
+					"location": "tetra:items/module/shield/plate/heater/wooden",
+					"tint": "5d574e"
+				}
+			]
+		},
+		{
+			"key": "heater/river",
+			"durability": 204,
+			"integrity": -1,
+			"magicCapacity": 102,
+			"effects": {
+				"blocking": [
+					2,
+					4
+				]
+			},
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 32,
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_heater",
+					"location": "tetra:items/module/shield/plate/heater/wooden",
+					"tint": "6d543b"
+				}
+			]
+		}
+	]
+}

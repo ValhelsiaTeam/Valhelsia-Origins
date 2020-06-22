@@ -1,0 +1,44 @@
+{
+	"variants": [
+		{
+			"key": "tower/driftwood",
+			"durability": 171,
+			"integrity": -1,
+			"magicCapacity": 132,
+			"effects": {
+				"blocking": 10
+			},
+			"glyph": {
+				"tint": "5d574e",
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_tower",
+					"location": "tetra:items/module/shield/plate/tower/wooden",
+					"tint": "5d574e"
+				}
+			]
+		},
+		{
+			"key": "tower/river",
+			"durability": 171,
+			"integrity": -1,
+			"magicCapacity": 102,
+			"effects": {
+				"blocking": 10
+			},
+			"glyph": {
+				"tint": "6d543b",
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_tower",
+					"location": "tetra:items/module/shield/plate/tower/wooden",
+					"tint": "6d543b"
+				}
+			]
+		}
+	]
+}

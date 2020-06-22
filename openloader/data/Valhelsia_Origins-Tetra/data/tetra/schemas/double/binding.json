@@ -1,0 +1,234 @@
+{
+    "replace": false,
+    "slots": [
+        "double/binding"
+    ],
+    "materialSlotCount": 1,
+    "displayType": "minor",
+    "glyph": {
+        "textureX": 88,
+        "textureY": 16
+    },
+    "outcomes": [
+        {
+            "material": {
+                "item": "minecraft:iron_ingot",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_iron_binding"
+        },
+        {
+            "material": {
+                "item": "minecraft:gold_ingot",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_gold_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/brass",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_brass_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/copper",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_copper_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/tin",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_tin_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/silver",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_silver_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/nickel",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_nickel_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/lead",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_lead_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/bronze",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 4
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_bronze_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/electrum",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_electrum_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/steel",
+                "count": 3
+            },
+            "requiredCapabilities": {
+                "hammer": 4
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_steel_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/iron",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_iron_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/gold",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_gold_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/copper",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_copper_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/brass",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_brass_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/silver",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_silver_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/nickel",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 4
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_nickel_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/lead",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_lead_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/electrum",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_electrum_plate_binding"
+        },
+        {
+            "material": {
+                "tag": "forge:plates/steel",
+                "count": 2
+            },
+            "requiredCapabilities": {
+                "hammer": 4
+            },
+            "moduleKey": "double/binding",
+            "moduleVariant": "double_steel_plate_binding"
+        }
+    ]
+}

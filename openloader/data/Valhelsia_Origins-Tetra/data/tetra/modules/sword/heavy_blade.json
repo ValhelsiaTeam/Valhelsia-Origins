@@ -1,0 +1,58 @@
+{
+	"variants": [
+		{
+			"key": "heavy_blade/driftwood",
+			"durability": 75,
+			"integrity": -2,
+			"magicCapacity": 132,
+			"damage": 3,
+			"attackSpeed": -0.4,
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 48
+			},
+			"effects": {
+				"sweeping": 3
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					1
+				]
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/heavy/crude",
+					"tint": "5d574e"
+				}
+			]
+		},
+		{
+			"key": "heavy_blade/river",
+			"durability": 75,
+			"integrity": -2,
+			"magicCapacity": 102,
+			"damage": 3,
+			"attackSpeed": -0.3,
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 48
+			},
+			"effects": {
+				"sweeping": 3
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					1
+				]
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/heavy/crude",
+					"tint": "6d543b"
+				}
+			]
+		}
+	]
+}

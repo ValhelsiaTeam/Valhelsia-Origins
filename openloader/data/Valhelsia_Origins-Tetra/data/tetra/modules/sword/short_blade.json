@@ -1,0 +1,61 @@
+{
+	"variants": [
+		{
+			"key": "short_blade/driftwood",
+			"durability": 38,
+			"integrity": -1,
+			"magicCapacity": 132,
+			"damage": 1,
+			"attackSpeed": 2.2,
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 32
+			},
+			"capabilities": {
+				"cut": [2, 0.7]
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/blade/short/crude",
+				"tint": "5d574e"
+			}]
+		},
+		{
+			"key": "short_blade/river",
+			"durability": 38,
+			"integrity": -1,
+			"magicCapacity": 102,
+			"damage": 1,
+			"attackSpeed": 2.8,
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 32
+			},
+			"capabilities": {
+				"cut": [2, 0.7]
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/blade/short/crude",
+				"tint": "6d543b"
+			}]
+		},
+		{
+			"key": "short_blade/thrasher",
+			"durability": 64,
+			"integrity": -1,
+			"magicCapacity": 90,
+			"damage": 6,
+			"attackSpeed": 1.5,
+			"glyph": {
+				"tint": "fcfcfc",
+				"textureX": 32
+			},
+			"capabilities": {
+				"cut": [2, 0.7]
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/blade/short/thrasher",
+				"tint": "fcfcfc"
+			}]
+		}
+	]
+}

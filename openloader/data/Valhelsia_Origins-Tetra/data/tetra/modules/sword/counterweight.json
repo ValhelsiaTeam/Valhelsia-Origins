@@ -1,0 +1,39 @@
+{
+	"variants": [
+		{
+			"key": "counterweight/driftwood",
+			"durability": 6,
+			"integrity": -1,
+			"effects": {
+				"counterweight": 2
+			},
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 32,
+				"textureY": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/pommel/counterweight/default",
+				"tint": "5d574e"
+			}]
+		},
+		{
+			"key": "counterweight/river",
+			"durability": 6,
+			"integrity": -1,
+			"attackSpeed": 0.2,
+			"effects": {
+				"counterweight": 2
+			},
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 32,
+				"textureY": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/pommel/counterweight/default",
+				"tint": "6d543b"
+			}]
+		}
+	]
+}

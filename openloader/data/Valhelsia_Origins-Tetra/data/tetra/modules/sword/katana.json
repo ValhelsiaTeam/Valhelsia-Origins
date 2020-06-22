@@ -1,0 +1,546 @@
+{
+    "replace": true,
+    "slots": ["sword/blade"],
+    "type": "tetra:basic_major_module",
+    "improvements": [
+        "tetra:sword/blade/basic_blade",
+        "tetra:sword/blade/serrated",
+        "tetra:sword/blade/hooked",
+        "tetra:sword/blade/tempered",
+        "tetra:sword/blade/shared",
+        "tetra:sword/blade/shared_compat",
+        "tetra:sword/blade/shared_hone",
+        "tetra:settling_improvements",
+        "tetra:destabilization_improvements"
+    ],
+	"variants": [
+		{
+            "key": "oak_katana",
+            "durability": 75,
+            "integrity": -2,
+            "magicCapacity": 90,
+            "damage": 3,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 2
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "oak_glyph" 
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/crude",
+                "tint": "oak"
+            }]
+        },
+		{
+            "key": "spruce_katana",
+            "durability": 75,
+            "integrity": -2,
+            "magicCapacity": 90,
+            "damage": 3,
+            "attackSpeed": 0.3,
+            "effects": {
+                "unarmoredDamage": 2
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "spruce_glyph" 
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/crude",
+                "tint": "spruce"
+            }]
+        },
+		{
+            "key": "birch_katana",
+            "durability": 108,
+            "integrity": -2,
+            "magicCapacity": 90,
+            "damage": 3,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 2
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "birch_glyph" 
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/crude",
+                "tint": "birch"
+            }]
+        },
+		{
+            "key": "jungle_katana",
+            "durability": 75,
+            "integrity": -2,
+            "magicCapacity": 102,
+            "damage": 3,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 2
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "jungle_glyph" 
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/crude",
+                "tint": "jungle"
+            }]
+        },
+		{
+            "key": "acacia_katana",
+            "durability": 108,
+            "integrity": -2,
+            "magicCapacity": 90,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 2
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "acacia_glyph"
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/crude",
+                "tint": "acacia"
+            }]
+        },
+		{
+            "key": "dark_oak_katana",
+            "durability": 75,
+            "integrity": -2,
+            "magicCapacity": 102,
+            "damage": 3,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 2
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "dark_oak_glyph"
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/crude",
+                "tint": "dark_oak"
+            }]
+        },
+		{
+            "key": "cobblestone_katana",
+            "durability": 153,
+            "integrity": -2,
+            "magicCapacity": 30,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 2
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "cobblestone_glyph"
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/crude",
+                "tint": "cobblestone"
+            }]
+        },
+		{
+            "key": "stone_katana",
+            "durability": 270,
+            "integrity": -2,
+            "magicCapacity": 30,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 1
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "stone_glyph"
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/metal",
+                "tint": "stone"
+            }]
+        },
+		{
+            "key": "granite_katana",
+            "durability": 360,
+            "integrity": -2,
+            "magicCapacity": 30,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 1
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png", 
+				"tint": "granite_glyph"
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/grainy",
+                "tint": "granite"
+            }]
+        },
+		{
+            "key": "diorite_katana",
+            "durability": 270,
+            "integrity": -2,
+            "magicCapacity": 42,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 1
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": {  
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "diorite_glyph" 
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/grainy",
+                "tint": "diorite"
+            }]
+        },
+		{
+            "key": "andesite_katana",
+            "durability": 300,
+            "integrity": -2,
+            "magicCapacity": 30,
+            "damage": 5,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 1
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": {  
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "andesite_glyph" 
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/grainy",
+                "tint": "andesite"
+            }]
+        },
+		{
+            "key": "flint_katana",
+            "durability": 153,
+            "integrity": -2,
+            "magicCapacity": 90,
+            "damage": 5,
+            "attackSpeed": 0.2,
+            "effects": {
+                "unarmoredDamage": 1
+            },
+            "capabilities": {
+                "cut": [2, 0.9375]
+            },
+            "glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "flint_glyph"
+			},
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/grainy",
+                "tint": "flint"
+            }]
+        },
+		{
+			"key": "iron_katana",
+			"durability": 332,
+			"integrity": -2,
+			"magicCapacity": 84,
+			"damage": 5,
+			"attackSpeed": 0.2,
+			"effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+			"glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "iron_glyph" 
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/blade/katana/metal",
+				"tint": "iron"
+			}]
+		},
+		{
+			"key": "gold_katana",
+			"durability": 23,
+			"integrity": -2,
+			"magicCapacity": 132,
+			"damage": 3,
+			"attackSpeed": 0.1,
+			"effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+			"glyph": {  
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "gold_glyph"
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/blade/katana/shiny",
+				"tint": "gold"
+			}]
+		},
+		{
+			"key": "diamond_katana",
+			"durability": 1679,
+			"integrity": -2,
+			"magicCapacity": 60,
+			"damage": 6,
+			"attackSpeed": 0.2,
+			"effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+			"glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "diamond_glyph" 
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/blade/katana/metal",
+				"tint": "diamond"
+			}]
+		},
+		{
+			"key": "obsidian_katana",
+			"durability": 2026,
+			"integrity": -3,
+			"magicCapacity": 42,
+			"damage": 8,
+			"attackSpeed": 0.1,
+			"effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+			"glyph": { 
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+				"tint": "obsidian_glyph" 
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/blade/katana/grainy",
+				"tint": "obsidian"
+			}]
+		},
+        {
+            "key": "copper_katana",
+            "durability": 222,
+            "integrity": -1,
+            "magicCapacity": 78,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "copper_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/metal",
+                "tint": "copper"
+            }]
+        },
+        {
+            "key": "tin_katana",
+            "durability": 126,
+            "integrity": 0,
+            "magicCapacity": 72,
+            "damage": 3,
+            "attackSpeed": 0.2,
+            "effects": {
+				"unarmoredDamage": 1
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "tin_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/metal",
+                "tint": "tin"
+            }]
+        },
+        {
+            "key": "silver_katana",
+            "durability": 90,
+            "integrity": -2,
+            "magicCapacity": 126,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "silver_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/shiny",
+                "tint": "silver"
+            }]
+        },
+        {
+            "key": "nickel_katana",
+            "durability": 300,
+            "integrity": -2,
+            "magicCapacity": 72,
+            "damage": 6,
+            "attackSpeed": 0.2,
+            "effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "nickel_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/metal",
+                "tint": "nickel"
+            }]
+        },
+        {
+            "key": "lead_katana",
+            "durability": 162,
+            "integrity": -3,
+            "magicCapacity": 66,
+            "damage": 6,
+            "attackSpeed": -0.3,
+            "effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "lead_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/metal",
+                "tint": "lead"
+            }]
+        },
+        {
+            "key": "bronze_katana",
+            "durability": 480,
+            "integrity": 0,
+            "magicCapacity": 78,
+            "damage": 5,
+            "attackSpeed": 0.2,
+            "effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "bronze_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/metal",
+                "tint": "bronze"
+            }]
+        },
+        {
+            "key": "electrum_katana",
+            "durability": 80,
+            "integrity": -2,
+            "magicCapacity": 144,
+            "damage": 4,
+            "attackSpeed": 0.2,
+            "effects": {
+				"unarmoredDamage": 2
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "electrum_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/shiny",
+                "tint": "electrum"
+            }]
+        },
+        {
+            "key": "steel_katana",
+            "durability": 570,
+            "integrity": -2,
+            "magicCapacity": 66,
+            "damage": 6,
+            "attackSpeed": 0.2,
+            "effects": {
+				"unarmoredDamage": 3
+			},
+			"capabilities": {
+				"cut": [2, 0.9375]
+			},
+            "glyph": {
+				"textureLocation": "tetra:textures/gui/katana_glyph.png",
+                "tint": "steel_glyph"
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/blade/katana/metal",
+                "tint": "steel"
+            }]
+        }
+	]
+}

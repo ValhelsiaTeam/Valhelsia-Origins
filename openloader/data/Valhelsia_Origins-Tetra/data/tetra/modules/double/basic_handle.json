@@ -1,0 +1,219 @@
+{
+    "replace": false,
+    "type": "tetra:basic_major_module",
+    "slots": [
+        "double/handle"
+    ],
+    "renderLayer": "lower",
+    "improvements": [
+        "tetra:enchantment/knockback",
+        "tetra:enchantment/ma-enchants_faster_attack",
+        "tetra:enchantment/ma-enchants_combo",
+        "tetra:enchantment/ma-enchants_wisdom",
+        "tetra:enchantment/naturesaura_aura_mending",
+        "tetra:enchantment/cyclic_magnet",
+        "tetra:enchantment/ma-enchants_curse_butterfingers",
+        "tetra:enchantment/mending",
+        "tetra:enchantment/unbreaking",
+        "tetra:enchantment/apotheosis_life_mending",
+        "tetra:enchantment/ma-enchants_curse_breaking",
+        "tetra:enchantment/cyclic_experience_boost",
+        "tetra:enchantment/ma-enchants_timeless",
+        "tetra:enchantment/vanishing_curse",
+        "tetra:enchantment/ensorcellation_soulbound",
+        "tetra:enchantment/ma-enchants_curse_death",
+        "tetra:enchantment/cursed_fragility",
+        "tetra:enchantment/cursed_misfortune",
+        "tetra:enchantment/cursed_fading",
+        "tetra:enchantment/cursed_obedience",
+        "tetra:enchantment/cursed_encumbrance",
+        "tetra:double/basic_handle",
+        "tetra:double/basic_handle_compat",
+        "tetra:double/basic_handle_hone",
+        "tetra:settling_improvements",
+        "tetra:destabilization_improvements"
+    ],
+    "variants": [
+        {
+            "key": "basic_gold_handle",
+            "durability": 14,
+            "integrity": 4,
+            "magicCapacity": 132,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "gold_glyph",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "gold"
+                }
+            ]
+        },
+        {
+            "key": "basic_brass_handle",
+            "durability": 28,
+            "integrity": 5,
+            "magicCapacity": 66,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "ebd999",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "ebd999"
+                }
+            ]
+        },
+        {
+            "key": "basic_copper_handle",
+            "durability": 20,
+            "integrity": 5,
+            "magicCapacity": 78,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "copper_glyph",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "copper"
+                }
+            ]
+        },
+        {
+            "key": "basic_tin_handle",
+            "durability": 15,
+            "integrity": 4,
+            "magicCapacity": 50,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "tin_glyph",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "tin"
+                }
+            ]
+        },
+        {
+            "key": "basic_silver_handle",
+            "durability": 30,
+            "integrity": 5,
+            "magicCapacity": 96,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "silver_glyph",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "silver"
+                }
+            ]
+        },
+        {
+            "key": "basic_nickel_handle",
+            "durability": 62,
+            "integrity": 6,
+            "magicCapacity": 84,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "nickel_glyph",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "nickel"
+                }
+            ]
+        },
+        {
+            "key": "basic_lead_handle",
+            "durability": 20,
+            "integrity": 5,
+            "magicCapacity": 76,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "lead_glyph",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "lead"
+                }
+            ]
+        },
+        {
+            "key": "basic_electrum_handle",
+            "durability": 34,
+            "integrity": 5,
+            "magicCapacity": 66,
+            "attackSpeed": -0.2,
+            "glyph": {
+                "tint": "electrum_glyph",
+                "textureX": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/double/handle/basic/default",
+                    "tint": "electrum"
+                }
+            ]
+        },
+		{
+			"key": "basic_handle/driftwood",
+			"durability": 24,
+			"integrity": 5,
+			"magicCapacity": 132,
+			"attackSpeed": -0.1,
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/double/handle/basic/default",
+				"tint": "5d574e"
+			}]
+		},
+		{
+			"key": "basic_handle/river",
+			"durability": 24,
+			"integrity": 5,
+			"magicCapacity": 102,
+			"attackSpeed": 0.10,
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/double/handle/basic/default",
+				"tint": "6d543b"
+			}]
+		},
+		{
+			"key": "basic_handle/prismarine",
+			"durability": 160,
+			"integrity": 5,
+			"magicCapacity": 102,
+			"attackSpeed": -0.2,
+			"glyph": {
+				"tint": "prismarine_glyph",
+				"textureX": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/double/handle/basic/default",
+				"tint": "prismarine_dark"
+			}]
+		}
+    ]
+}

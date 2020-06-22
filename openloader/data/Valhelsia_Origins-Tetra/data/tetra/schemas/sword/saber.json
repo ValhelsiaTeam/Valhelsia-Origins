@@ -1,0 +1,297 @@
+{
+    "replace": true,
+    "slots": [
+        "sword/blade"
+    ],
+    "materialSlotCount": 1,
+    "displayType": "major",
+	"glyph": {
+		"textureLocation": "tetra:textures/gui/saber_glyph.png"
+	},
+	"outcomes": [
+		{
+            "material": {
+                "item": "minecraft:oak_planks",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "axe": 1
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "oak_saber"
+        },
+		{
+            "material": {
+                "item": "minecraft:spruce_planks",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "axe": 1
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "spruce_saber"
+        },
+		{
+            "material": {
+                "item": "minecraft:birch_planks",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "axe": 1
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "birch_saber"
+        },
+		{
+            "material": {
+                "item": "minecraft:jungle_planks",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "axe": 1
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "jungle_saber"
+        },
+		{
+            "material": {
+                "item": "minecraft:acacia_planks",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "axe": 2
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "acacia_saber"
+        },
+		{
+            "material": {
+                "item": "minecraft:jungle_planks",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "axe": 1
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "jungle_saber"
+        },
+		{
+            "material": {
+                "item": "minecraft:dark_oak_planks",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "axe": 2
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "dark_oak_saber"
+        },
+		{
+			"material": {
+				"tag": "forge:cobblestone",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "cobblestone_saber"
+		},
+		{
+			"material": {
+				"item": "minecraft:stone",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "stone_saber"
+		},
+		{
+			"material": {
+				"item": "minecraft:granite",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "granite_saber"
+		},
+		{
+			"material": {
+				"item": "minecraft:diorite",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "diorite_saber"
+		},
+		{
+			"material": {
+				"item": "minecraft:andesite",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "andesite_saber",
+			"improvements": {
+				"arrested": 0
+			}
+		},
+		{
+			"material": {
+				"item": "minecraft:iron_ingot",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 3
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "iron_saber"
+		},
+		{
+			"material": {
+				"item": "minecraft:flint",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "flint_saber"
+		},
+		{
+			"material": {
+				"item": "minecraft:gold_ingot",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "gold_saber"
+		},
+		{
+			"material": {
+				"tag": "forge:gems/diamond",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 3
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "diamond_saber",
+			"improvements": {
+				"arrested": 0
+			}
+		},
+		{
+			"material": {
+				"item": "minecraft:obsidian",
+				"count": 4
+			},
+			"requiredCapabilities": {
+				"hammer": 4
+			},
+			"moduleKey": "sword/saber",
+			"moduleVariant": "obsidian_saber",
+			"improvements": {
+				"arrested": 0
+			}
+		},
+        {
+            "material": {
+                "tag": "forge:ingots/copper",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "copper_saber"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/tin",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "tin_saber"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/silver",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "silver_saber"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/nickel",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "nickel_saber"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/lead",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "lead_saber"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/bronze",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "bronze_saber"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/electrum",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 2
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "electrum_saber"
+        },
+        {
+            "material": {
+                "tag": "forge:ingots/steel",
+                "count": 4
+            },
+            "requiredCapabilities": {
+                "hammer": 3
+            },
+            "moduleKey": "sword/saber",
+            "moduleVariant": "steel_saber"
+        }
+	]
+}

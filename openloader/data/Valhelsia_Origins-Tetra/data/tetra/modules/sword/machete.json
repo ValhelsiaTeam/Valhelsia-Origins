@@ -1,0 +1,64 @@
+{
+	"variants": [
+		{
+			"key": "machete/driftwood",
+			"durability": 38,
+			"integrity": -2,
+			"magicCapacity": 132,
+			"damage": 3,
+			"attackSpeed": 0,
+			"glyph": {
+				"tint": "5d574e",
+				"textureY": 32,
+				"textureX": 48
+			},
+			"effects": {
+				"sweeping": 1,
+				"strikingCut": 1,
+				"sweepingStrike": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/machete/crude",
+					"tint": "5d574e"
+				}
+			]
+		},
+		{
+			"key": "machete/river",
+			"durability": 38,
+			"integrity": -2,
+			"magicCapacity": 102,
+			"damage": 3,
+			"attackSpeed": 0.3,
+			"glyph": {
+				"tint": "6d543b",
+				"textureY": 32,
+				"textureX": 48
+			},
+			"effects": {
+				"sweeping": 1,
+				"strikingCut": 1,
+				"sweepingStrike": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/machete/crude",
+					"tint": "6d543b"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"variants": [
+		{
+			"key": "wide_guard/driftwood",
+			"durability": 8,
+			"integrity": -1,
+			"attackSpeed": -0.1,
+			"effects": {
+				"armor": 1
+			},
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 40,
+				"textureY": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/guard/wide_guard/crude",
+				"tint": "5d574e"
+			}]
+		},
+		{
+			"key": "wide_guard/river",
+			"durability": 8,
+			"integrity": -1,
+			"attackSpeed": 0.2,
+			"effects": {
+				"armor": 1
+			},
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 40,
+				"textureY": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/guard/wide_guard/crude",
+				"tint": "6d543b"
+			}]
+		}
+	]
+}

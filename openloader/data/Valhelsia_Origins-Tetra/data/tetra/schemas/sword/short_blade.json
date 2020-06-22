@@ -1,0 +1,34 @@
+{
+	"outcomes": [
+		{
+			"material": {
+				"item": "upgrade_aquatic:driftwood_planks"
+			},
+			"requiredCapabilities": {
+				"axe": 1
+			},
+			"moduleKey": "sword/short_blade",
+			"moduleVariant": "short_blade/driftwood"
+		},
+		{
+			"material": {
+				"item": "upgrade_aquatic:river_planks"
+			},
+			"requiredCapabilities": {
+				"axe": 1
+			},
+			"moduleKey": "sword/short_blade",
+			"moduleVariant": "short_blade/river"
+		},
+		{
+			"material": {
+				"item": "upgrade_aquatic:thrasher_tooth"
+			},
+			"requiredCapabilities": {
+				"hammer": 4
+			},
+			"moduleKey": "sword/short_blade",
+			"moduleVariant": "short_blade/thrasher"
+		}
+	]
+}

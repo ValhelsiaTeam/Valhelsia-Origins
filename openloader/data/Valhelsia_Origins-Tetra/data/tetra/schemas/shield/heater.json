@@ -1,0 +1,24 @@
+{
+	"outcomes": [
+		{
+			"material": {
+				"item": "upgrade_aquatic:driftwood_planks"
+			},
+			"requiredCapabilities": {
+				"axe": 1
+			},
+			"moduleKey": "shield/heater",
+			"moduleVariant": "heater/driftwood"
+		},
+		{
+			"material": {
+				"item": "upgrade_aquatic:river_planks"
+			},
+			"requiredCapabilities": {
+				"axe": 1
+			},
+			"moduleKey": "shield/heater",
+			"moduleVariant": "heater/river"
+		}
+	]
+}

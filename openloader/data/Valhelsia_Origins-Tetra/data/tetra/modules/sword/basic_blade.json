@@ -1,0 +1,56 @@
+{
+	"variants": [
+		{
+			"key": "basic_blade/driftwood",
+			"durability": 38,
+			"integrity": -1,
+			"magicCapacity": 132,
+			"damage": 3,
+			"attackSpeed": 0.2,
+			"effects": {
+				"sweeping": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "5d574e"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/basic/crude",
+					"tint": "5d574e"
+				}
+			]
+		},
+		{
+			"key": "basic_blade/river",
+			"durability": 38,
+			"integrity": -1,
+			"magicCapacity": 102,
+			"damage": 3,
+			"attackSpeed": 0.3,
+			"effects": {
+				"sweeping": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "6d543b"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/basic/crude",
+					"tint": "6d543b"
+				}
+			]
+		}
+	]
+}

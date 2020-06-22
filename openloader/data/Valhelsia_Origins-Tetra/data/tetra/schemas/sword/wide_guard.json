@@ -1,0 +1,26 @@
+{
+	"outcomes": [
+		{
+			"material": {
+				"item": "upgrade_aquatic:driftwood_planks",
+				"count": 3
+			},
+			"requiredCapabilities": {
+				"axe": 1
+			},
+			"moduleKey": "sword/wide_guard",
+			"moduleVariant": "wide_guard/driftwood"
+		},
+		{
+			"material": {
+				"item": "upgrade_aquatic:river_planks",
+				"count": 3
+			},
+			"requiredCapabilities": {
+				"axe": 1
+			},
+			"moduleKey": "sword/wide_guard",
+			"moduleVariant": "wide_guard/river"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"outcomes": [
+		{
+			"material": {
+				"item": "upgrade_aquatic:driftwood_planks"
+			},
+			"requiredCapabilities": {
+				"axe": 3
+			},
+			"moduleKey": "bow/recurve_stave",
+			"moduleVariant": "recurve_stave/driftwood"
+		},
+		{
+			"material": {
+				"item": "upgrade_aquatic:river_planks"
+			},
+			"requiredCapabilities": {
+				"axe": 3
+			},
+			"moduleKey": "bow/recurve_stave",
+			"moduleVariant": "recurve_stave/river"
+		}
+	]
+}

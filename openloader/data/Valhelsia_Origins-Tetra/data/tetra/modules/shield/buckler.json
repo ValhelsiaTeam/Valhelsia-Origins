@@ -1,0 +1,46 @@
+{
+	"variants": [
+		{
+			"key": "buckler/driftwood",
+			"durability": 170,
+			"integrity": -1,
+			"magicCapacpity": 132,
+			"effects": {
+				"toughness": 4
+			},
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 48,
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_buckler",
+					"location": "tetra:items/module/shield/plate/buckler/wooden",
+					"tint": "5d574e"
+				}
+			]
+		},
+		{
+			"key": "buckler/river",
+			"durability": 170,
+			"integrity": -1,
+			"magicCapacpity": 102,
+			"effects": {
+				"toughness": 4
+			},
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 48,
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_buckler",
+					"location": "tetra:items/module/shield/plate/buckler/wooden",
+					"tint": "6d543b"
+				}
+			]
+		}
+	]
+}

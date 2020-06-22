@@ -1,0 +1,15 @@
+{
+	"outcomes": [
+		{
+			"material": {
+				"item": "minecraft:prismarine_shard",
+				"count": 2
+			},
+			"requiredCapabilities": {
+				"hammer": 4
+			},
+			"moduleKey": "single/binding",
+			"moduleVariant": "single_binding/prismarine"
+		}
+	]
+}

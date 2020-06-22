@@ -1,0 +1,41 @@
+{
+	"variants": [
+		{
+			"key": "grip_loop/driftwood",
+			"durability": 8,
+			"integrity": -1,
+			"range": 1,
+			"effects": {
+				"sweeping": [0, 2]
+			},
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 56,
+				"textureY": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/pommel/grip_loop/default",
+				"tint": "5d574e"
+			}]
+		},
+		{
+			"key": "grip_loop/river",
+			"durability": 8,
+			"integrity": -1,
+			"range": 1,
+			"attackSpeed": 0.2,
+			"effects": {
+				"sweeping": [0, 2]
+			},
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 56,
+				"textureY": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/pommel/grip_loop/default",
+				"tint": "6d543b"
+			}]
+		}
+	]
+}
