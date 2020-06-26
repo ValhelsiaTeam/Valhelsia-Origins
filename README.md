@@ -13,7 +13,7 @@
   </a>
 </p>
 
-**Valhelsia** is a modpack with a mix of tech, magic, exploration and adventure...
+**Valhelsia: Origins** is a mod pack for Minecraft 1.15.2. The pack is a highly curated experience that focuses on player creativity. 
 
 ------------------------------
 
@@ -24,5 +24,5 @@ Valhelsia Team partnered with BisectHosting!
 
 BisectHosting offers a quick, simple and quality solution. After your purchase, the server is already configured and ready to use.                 
 Use the code "**Valhelsia**" to get **25%** off your first month as a new client for any of their gaming servers.                                                                         
-This modpack is recommended to have **at least 4GB** to run smoothly with 10 players.
+This modpack is recommended to have **at least 4GB** to run smoothly with 5-7 players.
 
