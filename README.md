@@ -13,7 +13,7 @@
   </a>
 </p>
 
-**Valhelsia: Origins** is a mod pack for Minecraft 1.15.2. The pack is a highly curated experience that focuses on player creativity. 
+**Valhelsia: Origins** is a modpack for Minecraft 1.15.2. The pack is a highly curated experience that focuses on player creativity. 
 
 ------------------------------
 
