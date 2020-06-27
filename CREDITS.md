@@ -15,3 +15,4 @@
 ### Tetra Compatibility
 * BlackHackedGhost#0001 - Tetra Data + Resource Pack Contributions
 * swuff★#2224 (@swuff_) - Tetra Data + Resource Pack Contributions
+* Flynn#9261 - Tetra Data + Resource Pack Contributions
