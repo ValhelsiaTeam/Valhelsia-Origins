@@ -959,12 +959,12 @@
 	[world.mega_caves]
 
 		[world.mega_caves.spawn_settings]
-			"Horizontal Size" = 60
-			Rarity = 1200
+			"Horizontal Size" = 40
+			Rarity = 1800
 			"Min Y Level" = 10
-			"Horizontal Variation" = 30
+			"Horizontal Variation" = 20
 			"Max Y Level" = 20
-			"Vertical Size" = 20
+			"Vertical Size" = 35
 			"Vertical Variation" = 10
 
 			[world.mega_caves.spawn_settings.biomes]
