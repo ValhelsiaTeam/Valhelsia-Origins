@@ -28,14 +28,14 @@
 	# Max: 2147483647
 	# Default: 15
 	keepAlivePacketInterval = 30
-	# The read timeout.
+	# The read timeout in seconds.
 	# This is the time it takes for a player to be disconnected after not responding to a KeepAlive packet.
 	# This value is automatically rounded up to a product of keepAlivePacketInterval.
 	# Min: 1
 	# Max: 2147483647
 	# Default: 90
 	readTimeout = 180
-	# The login timeout.
+	# The login timeout in seconds.
 	# Min: 1
 	# Max: 2147483647
 	# Default: 900
@@ -61,24 +61,24 @@
 		# The path to the 256x256 window icon which is used on Mac OS X.
 		# Leave this, the 16x16 icon and the 32x32 icon blank to use the default icon.
 		# Default: 
-		icon256 = ""
+		icon256 = "icons/icon_256x256.png"
 		# The path to the 16x16 Minecraft window icon.
 		# Leave this and the 32x32 icon blank to use the default icon.
 		# Default: 
-		icon16 = ""
+		icon16 = "icons/icon_16x16.png"
 		# The path to the 32x32 Minecraft window icon.
 		# Leave this and the 16x16 icon blank to use the default icon.
 		# Default: 
-		icon32 = ""
+		icon32 = "icons/icon_32x32.png"
 		# The Minecraft window title.
 		# The Minecraft version is provided as an argument.
 		# Default: Minecraft* %s
-		title = "Valhelsia Origins %s"
+		title = "Valhelsia: Origins %s"
 		# The Minecraft window title.
 		# The Minecraft version and current activity are provided as arguments.
 		# For example: "RandomPatches - %2$s"
 		# Default: Minecraft* %s - %s
-		titleWithActivity = "Valhelsia Origins %s - %s"
+		titleWithActivity = "Valhelsia: Origins %s - %s"
 
 # Options related to boats.
 [boats]
