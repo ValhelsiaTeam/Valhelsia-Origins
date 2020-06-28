@@ -16,3 +16,6 @@
 * BlackHackedGhost#0001 - Tetra Data + Resource Pack Contributions
 * swuff★#2224 (@swuff_) - Tetra Data + Resource Pack Contributions
 * Flynn#9261 - Tetra Data + Resource Pack Contributions
+
+### Menu Music
+* Rush Garcia (@Tit0Rush) - "Endless - A Minecraft Orchestration"
