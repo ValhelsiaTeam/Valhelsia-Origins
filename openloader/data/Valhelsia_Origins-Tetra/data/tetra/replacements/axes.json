@@ -1,0 +1,11 @@
+[
+	{
+		"predicate": {"item": "druidcraft:moonstone_axe"},
+		"item": "tetra:modular_double",
+		"modules": {
+			"double/head_left": ["double/basic_axe_left", "basic_axe/moonstone"],
+			"double/head_right": ["double/butt_right", "butt/moonstone"],
+			"double/handle": ["double/basic_handle", "basic_handle/moonstone"]
+		}
+	}
+]

@@ -214,6 +214,20 @@
 				"location": "tetra:items/module/double/handle/basic/default",
 				"tint": "prismarine_dark"
 			}]
+		},
+		{
+			"key": "basic_handle/moonstone",
+			"durability": 20,
+			"integrity": 6,
+			"magicCapacity": 90,
+			"glyph": {
+				"tint": "stick_glyph",
+				"textureX": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/double/handle/basic/moonstone",
+				"tint": "fcfcfc"
+			}]
 		}
     ]
 }

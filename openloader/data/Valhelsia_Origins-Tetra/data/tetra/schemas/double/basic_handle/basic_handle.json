@@ -118,6 +118,16 @@
 			},
 			"moduleKey": "double/basic_handle",
 			"moduleVariant": "basic_handle/prismarine"
+		},
+		{
+			"material": {
+				"tag": "forge:gems/moonstone"
+			},
+			"requiredCapabilities": {
+        		"hammer": 4
+        	},
+			"moduleKey": "double/basic_handle",
+			"moduleVariant": "basic_handle/moonstone"
 		}
     ]
 }

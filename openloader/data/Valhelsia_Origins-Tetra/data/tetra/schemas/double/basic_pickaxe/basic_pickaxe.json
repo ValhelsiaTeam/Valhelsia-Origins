@@ -1,0 +1,14 @@
+{
+  "outcomes": [
+	{
+      "material": {
+        "item": "druidcraft:moonstone"
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "double/basic_pickaxe",
+      "moduleVariant": "basic_pickaxe/moonstone"
+    }
+  ]
+}
