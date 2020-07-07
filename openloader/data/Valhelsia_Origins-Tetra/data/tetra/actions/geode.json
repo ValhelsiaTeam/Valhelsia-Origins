@@ -88,5 +88,15 @@
 			"hammer": 2
 		},
 		"lootTable": "tetra:actions/flatten_lapis"
+	},
+	{
+		"key": "smash_melon_action",
+		"requirement": {
+			"item": "minecraft:melon"
+		},
+		"requiredCapabilities": {
+			"hammer": 2
+		},
+		"lootTable": "tetra:actions/smash_melon"
 	}
 ]

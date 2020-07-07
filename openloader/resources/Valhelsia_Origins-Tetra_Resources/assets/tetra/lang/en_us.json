@@ -4,6 +4,7 @@
 	"tetra.flatten_gold_action.label": "Flatten",
 	"tetra.flatten_lapis_action.label": "Flatten",
 	"tetra.flatten_brass_action.label": "Flatten",
+	"tetra.smash_melon_action.label": "Smash",
 	
 	"tetra/schema/sword/saber.name": "Saber",
 	"tetra/schema/sword/saber.description": "Replace the current sword blade with a curved and much lighter blade that allows for faster attacks and better sweeping capability.",
