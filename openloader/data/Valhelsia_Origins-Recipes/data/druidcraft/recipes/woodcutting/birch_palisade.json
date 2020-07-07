@@ -1,0 +1,8 @@
+{
+  "type": "druidcraft:woodcutting",
+  "ingredient": {
+    "item":"minecraft:birch_log"
+  },
+  "result": "decorative_blocks:birch_palisade",
+  "count": 3
+}

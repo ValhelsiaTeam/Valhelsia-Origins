@@ -1,0 +1,8 @@
+{
+  "type": "druidcraft:woodcutting",
+  "ingredient": {
+    "item":"minecraft:oak_log"
+  },
+  "result": "decorative_blocks:oak_palisade",
+  "count": 3
+}

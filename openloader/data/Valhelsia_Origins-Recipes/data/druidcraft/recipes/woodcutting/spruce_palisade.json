@@ -1,0 +1,8 @@
+{
+  "type": "druidcraft:woodcutting",
+  "ingredient": {
+    "item":"minecraft:spruce_log"
+  },
+  "result": "decorative_blocks:spruce_palisade",
+  "count": 3
+}
