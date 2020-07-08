@@ -3,6 +3,6 @@
   "ingredient": {
     "tag":"minecraft:spruce_logs"
   },
-  "result": "decorative_blocks:spruce_palisade",
-  "count": 3
+  "result": "decorative_blocks:spruce_beam",
+  "count": 1
 }

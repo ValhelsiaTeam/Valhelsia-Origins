@@ -3,6 +3,6 @@
   "ingredient": {
     "tag":"minecraft:dark_oak_logs"
   },
-  "result": "decorative_blocks:dark_oak_palisade",
-  "count": 3
+  "result": "decorative_blocks:dark_oak_beam",
+  "count": 1
 }
