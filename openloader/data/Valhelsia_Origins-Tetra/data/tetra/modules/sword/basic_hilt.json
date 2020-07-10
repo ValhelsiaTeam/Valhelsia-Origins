@@ -1,49 +1,49 @@
 {
 	"variants": [
-	{
-	"key": "basic_hilt/driftwood",
-		"durability": 13,
-		"integrity": 4,
-		"magicCapacity": 132,
-		"attackSpeed": 0.35,
-		"glyph": {
-			"tint": "5d574e",
-			"textureX": 16
+		{
+		"key": "basic_hilt/driftwood",
+			"durability": 13,
+			"integrity": 4,
+			"magicCapacity": 132,
+			"attackSpeed": 0.35,
+			"glyph": {
+				"tint": "5d574e",
+				"textureX": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/hilt/basic/default",
+				"tint": "5d574e"
+			}]
 		},
-		"models": [{
-			"location": "tetra:items/module/sword/hilt/basic/default",
-			"tint": "5d574e"
-		}]
-	},
-	{
-	"key": "basic_hilt/river",
-		"durability": 13,
-		"integrity": 4,
-		"magicCapacity": 102,
-		"attackSpeed": 0.55,
-		"glyph": {
-			"tint": "6d543b",
-			"textureX": 16
+		{
+		"key": "basic_hilt/river",
+			"durability": 13,
+			"integrity": 4,
+			"magicCapacity": 102,
+			"attackSpeed": 0.55,
+			"glyph": {
+				"tint": "6d543b",
+				"textureX": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/hilt/basic/default",
+				"tint": "6d543b"
+			}]
 		},
-		"models": [{
-			"location": "tetra:items/module/sword/hilt/basic/default",
-			"tint": "6d543b"
-		}]
-	},
-	{
-		"key": "basic_hilt/prismarine",
-		"durability": 250,
-		"integrity": 5,
-		"magicCapacity": 102,
-		"attackSpeed": 0.25,
-		"glyph": {
-			"tint": "prismarine_glyph",
-			"textureX": 16
-		},
-		"models": [{
-			"location": "tetra:items/module/sword/hilt/basic/default",
-			"tint": "prismarine_dark"
-		}]
-	}
+		{
+			"key": "basic_hilt/prismarine",
+			"durability": 250,
+			"integrity": 5,
+			"magicCapacity": 102,
+			"attackSpeed": 0.25,
+			"glyph": {
+				"tint": "prismarine_glyph",
+				"textureX": 16
+			},
+			"models": [{
+				"location": "tetra:items/module/sword/hilt/basic/default",
+				"tint": "prismarine_dark"
+			}]
+		}
 	]
 }
