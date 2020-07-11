@@ -2,18 +2,18 @@
     "type": "create:crushing",
     "ingredients": [
     	{
-    		"item": "atmospheric:scalding_monkey_brush"
+    		"item": "autumnity:autumn_crocus"
     	}
     ],
 	"results": [
 		{
-			"item": "minecraft:red_dye",
+			"item": "minecraft:magenta_dye",
 			"count": 2
 		},
 		{
-			"item": "minecraft:orange_dye",
+			"item": "minecraft:purple_dye",
 			"count": 1,
-			"chance": 0.25
+			"chance": 0.05
 		}
 	],
 	"processingTime": 50

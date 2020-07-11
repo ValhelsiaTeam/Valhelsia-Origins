@@ -2,18 +2,18 @@
     "type": "create:milling",
     "ingredients": [
     	{
-    		"item": "buzzierbees:cartwheel"
+    		"item": "autumnity:autumn_crocus"
     	}
     ],
 	"results": [
 		{
-			"item": "minecraft:pink_dye",
+			"item": "minecraft:magenta_dye",
 			"count": 2
 		},
 		{
-			"item": "minecraft:yellow_dye",
+			"item": "minecraft:purple_dye",
 			"count": 1,
-			"chance": 0.25
+			"chance": 0.05
 		}
 	],
 	"processingTime": 50
