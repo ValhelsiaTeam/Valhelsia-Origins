@@ -16,5 +16,5 @@
 	# Configure tooltip for durability.
 	durabilityTooltipMode = "disabled"
 	# Configure tooltip for hunger and saturation.
-	foodTooltipMode = "onDebug"
+	foodTooltipMode = "disabled"
 
