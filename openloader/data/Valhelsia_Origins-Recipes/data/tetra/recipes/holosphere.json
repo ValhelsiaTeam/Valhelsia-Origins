@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "lrl",
+      "rar",
+      "lrl"
+    ],
+    "key": {
+      "l": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "r": {
+        "item": "minecraft:redstone"
+      },
+      "a": {
+        "tag": "forge:gems/amber"
+      }
+    },
+    "result": {
+      "item": "tetra:journal",
+      "count": 1
+    }
+  }
+  
