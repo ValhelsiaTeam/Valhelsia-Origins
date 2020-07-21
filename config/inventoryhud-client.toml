@@ -23,24 +23,24 @@
 	xArmPos = 95
 	#Armor HUD position (Y)
 	#Range: -9999 ~ 9999
-	yArmPos = 200
+	yArmPos = -20
 	#Armor HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
 	armHalign = "RIGHT"
 	#Armor HUD type (ARMOR, FULL, FULL and empty inventory slots)
 	#Allowed Values: ARMOR, FULL, FULL_AND_INV
-	armType = "FULL_AND_INV"
+	armType = "ARMOR"
 	#Is Armor Damage HUD enabled
 	ArmorDamage = true
 	#Hide if durability is above this (in percentage):
 	#Range: 0 ~ 100
-	armAbove = 100
+	armAbove = 15
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT
 	armView = "DAMAGE_LEFT"
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	armValign = "BOTTOM"
+	armValign = "CENTER"
 
 #Settings for Potions HUD
 [potionshud]
