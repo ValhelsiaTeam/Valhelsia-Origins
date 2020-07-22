@@ -1,3 +1,52 @@
+# Changelog 1.0.2
+
+![100% center](https://zupimages.net/up/20/17/mfyp.png)
+**Forge 31.2.31**
+
+### Mods added:
++ Atum 2
++ Back Tools
++ Drawers Tooltip
++ Inventory HUD+
++ JEI Enchantment Info
++ Snow! Real Magic!
++ Waddles
+
+### Mods removed:
+- CC: Tweaked
+- Equipment Tooltips
+
+### Updated:
+- ClientTweaks 1.15.2-4.2.0
+- Clumps 5.0.2.4
+- CraftTweaker 1.15.2-6.0.0.34
+- DoubleSlabs 1.15-2.8.3
+- Enchanted Book Redesign 2.0a
+- Fairy Lights 3.0.7-1.15.2
+- FastWorkbench 1.15.2-3.1.1
+- Immersive Engineering 0.15-108
+- JAOPCA 1.15.2-3.2.0.12
+- Patchouli 1.15.2-1.2-35
+- Polymorph 1.15.2-0.9
+- Scenic 1.15.2-1.0.2
+- Structurize 0.13.19-Alpha
+- Tetra - 1.15.2-2.16.1
+- Trash 1.15.2-0.2.0
+- WAWLA 1.15.2-3.0.4
+- Xaero's Minimap - v20.16.0.1 for Forge 1.15.2.
+- Xaero's World Map - v1.7.4 for Forge 1.15.2.
+- YUNG's Better Mineshafts - 1.15.2-1.3
+
+### Changes:
+- Added some new loot to Treasure Pots.
+- Added a Tetra Holosphere recipe in case you lose yours.
+- Increased the River Sapling drop rate from Upgrade Aquatic.
+- Removed the minecraft:leaves tag from mushroom caps.
+- Added burn time to JEI tooltip.
+- Adjusted ServerTabInfo config.
+- Improved ToastControl config.
+- Changed recipe for Big Chains from Decorative Blocks.
+
 # Changelog 1.0.1
 
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
