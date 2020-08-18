@@ -1,4 +1,8 @@
 {
+	"improvements": [
+		"tetra:shield/plate/heater/studs_bhg",
+		"tetra:shield/plate/heater/trim_bhg"
+	],
 	"variants": [
 		{
 			"key": "heater/driftwood",
@@ -45,6 +49,52 @@
 					"type": "shield_heater",
 					"location": "tetra:items/module/shield/plate/heater/wooden",
 					"tint": "6d543b"
+				}
+			]
+		},
+		{
+			"key": "heater/griefer",
+			"durability": 558,
+			"integrity": -2,
+			"magicCapacity": 104,
+			"attackSpeed": 6,
+			"damage": 3,
+			"effects": {
+				"blocking": 2,
+				"toughness": 2
+			},
+			"glyph": {
+				"tint": "537036",
+				"textureX": 48,
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_heater",
+					"location": "tetra:items/module/shield/plate/heater/griefer"
+				}
+			]
+		},
+		{
+			"key": "tower/griefer",
+			"durability": 465,
+			"integrity": -2,
+			"magicCapacity": 104,
+			"attackSpeed": 9,
+			"damage": 7,
+			"effects": {
+				"blocking": 16,
+				"toughness": 2
+			},
+			"glyph": {
+				"tint": "537036",
+				"textureX": 48,
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_tower",
+					"location": "tetra:items/module/shield/plate/tower/griefer"
 				}
 			]
 		}

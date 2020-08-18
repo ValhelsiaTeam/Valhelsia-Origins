@@ -1,4 +1,8 @@
 {
+	"improvements": [
+		"tetra:shield/plate/tower/studs_bhg",
+		"tetra:shield/plate/heater/trim_bhg"
+	],
 	"variants": [
 		{
 			"key": "tower/driftwood",

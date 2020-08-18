@@ -1,0 +1,10 @@
+[
+	{
+		"moduleVariants": ["spearhead/thrasher", "light_handle/prismarine_rod"],
+		"name": "single/unident"
+	},
+    {
+        "modules": ["single/spearhead", "single/light_handle"],
+        "name": "single/javelin"
+    }
+]

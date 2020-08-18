@@ -249,6 +249,70 @@
             ],
             "weight": 8,
             "name": "druidcraft:moonstone"
+          },
+          {
+            "type": "minecraft:item",
+            "conditions": [
+              {
+                "condition": "minecraft:survives_explosion"
+              },
+              {
+                "condition": "minecraft:inverted",
+                "term": {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "weight": 1,
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "set_nbt",
+                "tag": "Name:\"xBCrafted\",{SkullOwner:\"xBCrafted\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "conditions": [
+              {
+                "condition": "minecraft:survives_explosion"
+              },
+              {
+                "condition": "minecraft:inverted",
+                "term": {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "enchantments": [
+                      {
+                        "enchantment": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "weight": 1,
+            "name": "minecraft:player_head",
+            "functions": [
+              {
+                "function": "set_nbt",
+                "tag": "{Name:\"ChosenArchitect\",SkullOwner:\"ChosenArchitect\"}"
+              }
+            ]
           }
         ]
       }

@@ -1,4 +1,8 @@
 {
+	"improvements": [
+		"tetra:shield/plate/buckler/studs_bhg",
+		"tetra:shield/plate/buckler/trim_bhg"
+	],
 	"variants": [
 		{
 			"key": "buckler/driftwood",
@@ -39,6 +43,28 @@
 					"type": "shield_buckler",
 					"location": "tetra:items/module/shield/plate/buckler/wooden",
 					"tint": "6d543b"
+				}
+			]
+		},
+		{
+			"key": "buckler/griefer",
+			"durability": 465,
+			"integrity": -2,
+			"magicCapacity": 104,
+			"attackSpeed": 4,
+			"damage": 3,
+			"effects": {
+				"toughness": 6
+			},
+			"glyph": {
+				"tint": "537036",
+				"textureX": 48,
+				"textureY": 48
+			},
+			"models": [
+				{
+					"type": "shield_buckler",
+					"location": "tetra:items/module/shield/plate/buckler/griefer"
 				}
 			]
 		}

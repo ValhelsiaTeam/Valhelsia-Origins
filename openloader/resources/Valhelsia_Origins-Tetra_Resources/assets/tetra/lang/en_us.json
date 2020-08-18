@@ -411,8 +411,19 @@
 	"tetra.variant.tower/river.prefix": "River",
 	"tetra.variant.basic_grip/prismarine": "Prismarine rod",
 	
+	"tetra.synergy.single/unident": "Unident",
+	"advancements.adventure.unident": "Unident",
+	"advancements.adventure.unident.description": "Craft a trident with a single point.",
+	
 	"tetra.variant.basic_pickaxe/moonstone": "Moonstone pick",
 	"tetra.variant.basic_handle/moonstone": "Moonstone balanced handle",
 	"tetra.variant.basic_axe/moonstone": "Moonstone axe",
-	"tetra.variant.butt/moonstone": "Moonstone butt"
+	"tetra.variant.butt/moonstone": "Moonstone butt",
+
+	"tetra.variant.buckler/griefer": "Blast-proof buckler plate",
+	"tetra.variant.heater/griefer": "Blast-proof heater plate",
+	"tetra.variant.tower/griefer": "Blast-proof tower plate",
+	"tetra.variant.buckler/griefer.prefix": "Blast-proof",
+	"tetra.variant.heater/griefer.prefix": "Blast-proof",
+	"tetra.variant.tower/griefer.prefix": "Blast-proof"
 }

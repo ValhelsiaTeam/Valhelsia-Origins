@@ -1,0 +1,37 @@
+{
+  "parent": "upgrade_aquatic:adventure/tooth_fairy",
+  "display": {
+    "icon": {
+      "item": "tetra:modular_single",
+		"nbt": "{\"single/light_handle_material\": \"light_handle/prismarine_rod\",\"single/binding_material\": \"single_binding/prismarine\", \"single/spearhead_material\": \"spearhead/thrasher\", \"single/binding\": \"single/binding\", \"single/handle\": \"single/light_handle\", \"single/head\": \"single/spearhead\"}"
+    },
+    "title": {
+      "translate": "advancements.adventure.unident"
+    },
+    "description": {
+      "translate": "advancements.adventure.unident.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "unident": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tetra:modular_single",
+			"nbt": "{\"single/light_handle_material\": \"light_handle/prismarine_rod\",\"single/binding_material\": \"single_binding/prismarine\", \"single/spearhead_material\": \"spearhead/thrasher\", \"single/binding\": \"single/binding\", \"single/handle\": \"single/light_handle\", \"single/head\": \"single/spearhead\"}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "unident"
+    ]
+  ]
+}
