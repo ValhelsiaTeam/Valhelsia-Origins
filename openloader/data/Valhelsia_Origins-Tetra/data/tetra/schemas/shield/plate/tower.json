@@ -25,7 +25,7 @@
 				"item": "savageandravage:blast_proof_plating",
 				"count": 2
 			},
-			"rquiredCapabilities": {
+			"requiredCapabilities": {
 				"hammer": 3
 			},
 			"moduleKey": "shield/tower",

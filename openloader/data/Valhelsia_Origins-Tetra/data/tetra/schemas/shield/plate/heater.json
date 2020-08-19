@@ -24,7 +24,7 @@
 			"material": {
 				"item": "savageandravage:blast_proof_plating"
 			},
-			"rquiredCapabilities": {
+			"requiredCapabilities": {
 				"hammer": 3
 			},
 			"moduleKey": "shield/heater",

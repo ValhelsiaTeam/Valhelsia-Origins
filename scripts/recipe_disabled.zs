@@ -15,8 +15,7 @@ import crafttweaker.api.item.IIngredient;
 <recipetype:smelting>.removeRecipe(<item:immersiveengineering:ingot_copper>);
 
 // JAOPCA
-// (we don't have tin or bronze in the pack, no idea why it adds these)
-<recipetype:crafting>.removeRecipe(<item:jaopca:storage_blocks.tin>);
+// (we don't have bronze in the pack, no idea why it adds it)
 <recipetype:crafting>.removeRecipe(<item:jaopca:storage_blocks.bronze>);
 
 // Upgrade Aquatic
