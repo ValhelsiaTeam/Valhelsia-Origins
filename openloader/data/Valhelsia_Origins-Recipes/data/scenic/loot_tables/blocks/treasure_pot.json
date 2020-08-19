@@ -278,7 +278,7 @@
             "functions": [
               {
                 "function": "set_nbt",
-                "tag": "Name:\"xBCrafted\",{SkullOwner:\"xBCrafted\"}"
+                "tag": "{SkullOwner:\"xBCrafted\"}"
               }
             ]
           },
@@ -310,7 +310,7 @@
             "functions": [
               {
                 "function": "set_nbt",
-                "tag": "{Name:\"ChosenArchitect\",SkullOwner:\"ChosenArchitect\"}"
+                "tag": "{SkullOwner:\"ChosenArchitect\"}"
               }
             ]
           }
