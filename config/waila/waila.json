@@ -13,10 +13,10 @@
   },
   "overlay": {
     "overlayPosX": 0.5,
-    "overlayPosY": 0.99,
+    "overlayPosY": 0.95,
     "overlayScale": 1.0,
     "color": {
-      "alpha": 80,
+      "alpha": 0,
       "themes": [
         {
           "id": "waila:dark",
