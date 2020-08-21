@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"variants": [
 		{
 			"key": "counterweight/driftwood",
@@ -34,6 +35,57 @@
 				"location": "tetra:items/module/sword/pommel/counterweight/default",
 				"tint": "6d543b"
 			}]
-		}
+		},
+		{
+            "key": "counterweight/tungsten",
+            "durability": 23,
+            "integrity": -2,
+            "effects": {
+                "counterweight": 4
+            },
+            "glyph": {
+                "tint": "acccb3",
+                "textureX": 32,
+                "textureY": 16
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/pommel/counterweight/default",
+                "tint": "acccb3"
+            }]
+        },
+		{
+            "key": "counterweight/endorium",
+            "durability": 33,
+            "integrity": -3,
+            "effects": {
+                "counterweight": 5
+            },
+            "glyph": {
+                "tint": "2e7468",
+                "textureX": 32,
+                "textureY": 16
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/pommel/counterweight/default",
+                "tint": "2e7468"
+            }]
+        },
+		{
+            "key": "counterweight/end_stone",
+            "durability": 20,
+            "integrity": -2,
+            "effects": {
+                "counterweight": 4
+            },
+            "glyph": {
+                "tint": "f3f7bb",
+                "textureX": 32,
+                "textureY": 16
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/pommel/counterweight/default",
+                "tint": "f3f7bb"
+            }]
+        }
 	]
 }

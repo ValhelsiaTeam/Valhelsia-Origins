@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"variants": [
 		{
 		"key": "basic_hilt/driftwood",
@@ -44,6 +45,40 @@
 				"location": "tetra:items/module/sword/hilt/basic/default",
 				"tint": "prismarine_dark"
 			}]
+		},
+		{
+			"key": "basic_hilt/tungsten",
+			"durability": 36,
+			"integrity": 5,
+			"magicCapacity": 42,
+			"attackSpeed": 0.2,
+			"glyph": {
+				"tint": "acccb3",
+				"textureX": 16
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/hilt/basic/default",
+					"tint": "acccb3"
+				}
+			]
+		},
+		{
+			"key": "basic_hilt/endorium",
+			"durability": 72,
+			"integrity": 7,
+			"magicCapacity": 102,
+			"attackSpeed": 0.35,
+			"glyph": {
+				"tint": "acccb3",
+				"textureX": 16
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/hilt/basic/default",
+					"tint": "2e7468"
+				}
+			]
 		}
 	]
 }

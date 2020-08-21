@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"outcomes": [
 		{
 			"material": {
@@ -29,6 +30,28 @@
 			},
 			"moduleKey": "sword/basic_hilt",
 			"moduleVariant": "basic_hilt/prismarine"
+		},
+		{
+			"material": {
+				"item": "endreborn:endorium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/basic_hilt",
+			"moduleVariant": "basic_hilt/endorium"
+		},
+		{
+			"material": {
+				"item": "endreborn:wolframium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/basic_hilt",
+			"moduleVariant": "basic_hilt/tungsten"
 		}
 	]
 }

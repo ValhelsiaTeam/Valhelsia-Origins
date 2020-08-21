@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"outcomes": [
 		{
 			"material": {
@@ -21,6 +22,39 @@
 			},
 			"moduleKey": "sword/reinforced_fuller",
 			"moduleVariant": "reinforced_fuller/river"
+		},
+		{
+			"material": {
+				"item": "endreborn:endorium_ingot",
+				"count": 2
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/reinforced_fuller",
+			"moduleVariant": "reinforced_fuller/endorium"
+		},
+		{
+			"material": {
+				"item": "endreborn:wolframium_ingot",
+				"count": 2
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/reinforced_fuller",
+			"moduleVariant": "reinforced_fuller/tungsten"
+		},
+		{
+			"material": {
+				"item": "endreborn:burned_end_stone",
+				"count": 2
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/reinforced_fuller",
+			"moduleVariant": "reinforced_fuller/end_stone"
 		}
 	]
 }

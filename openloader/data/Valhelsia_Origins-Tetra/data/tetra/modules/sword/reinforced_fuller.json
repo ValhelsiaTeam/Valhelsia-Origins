@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"variants": [
 		{
 			"key": "reinforced_fuller/driftwood",
@@ -35,6 +36,60 @@
 				"location": "tetra:items/module/sword/fuller/reinforced_fuller/default",
 				"tint": "6d543b"
 			}]
-		}
+		},
+		{
+            "key": "reinforced_fuller/tungsten",
+            "durability": 72,
+            "integrity": 2,
+            "attackSpeed": -0.9,
+            "effects": {
+                "unbreaking": 1
+            },
+            "glyph": {
+                "tint": "acccb3",
+                "textureX": 72,
+                "textureY": 16
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/fuller/reinforced_fuller/default",
+                "tint": "acccb3"
+            }]
+        },
+		{
+            "key": "reinforced_fuller/endorium",
+            "durability": 115,
+            "integrity": 2,
+            "attackSpeed": -0.7,
+            "effects": {
+                "unbreaking": 1
+            },
+            "glyph": {
+                "tint": "2e7468",
+                "textureX": 72,
+                "textureY": 16
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/fuller/reinforced_fuller/default",
+                "tint": "2e7468"
+            }]
+        },
+		{
+            "key": "reinforced_fuller/end_stone",
+            "durability": 80,
+            "integrity": 1,
+            "attackSpeed": -0.7,
+            "effects": {
+                "unbreaking": 1
+            },
+            "glyph": {
+                "tint": "f3f7bb",
+                "textureX": 72,
+                "textureY": 16
+            },
+            "models": [{
+                "location": "tetra:items/module/sword/fuller/reinforced_fuller/default",
+                "tint": "f3f7bb"
+            }]
+        }
 	]
 }

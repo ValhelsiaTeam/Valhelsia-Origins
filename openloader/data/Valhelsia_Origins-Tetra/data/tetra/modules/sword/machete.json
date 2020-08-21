@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"variants": [
 		{
 			"key": "machete/driftwood",
@@ -57,6 +58,90 @@
 				{
 					"location": "tetra:items/module/sword/blade/machete/crude",
 					"tint": "6d543b"
+				}
+			]
+		},
+		{
+			"key": "machete/tungsten",
+			"durability": 230,
+			"integrity": -2,
+			"magicCapacity": 42,
+			"damage": 5.5,
+			"attackSpeed": 0,
+			"effects": {
+				"sweeping": 1,
+				"strikingCut": 1,
+				"strikingStrike": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "acccb3"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/machete/metal",
+					"tint": "acccb3"
+				}
+			]
+		},
+		{
+			"key": "machete/endorium",
+			"durability": 430,
+			"integrity": -2,
+			"magicCapacity": 102,
+			"damage": 7,
+			"attackSpeed": 0,
+			"effects": {
+				"sweeping": 1,
+				"strikingCut": 1,
+				"strikingStrike": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "2e7468"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/machete/metal",
+					"tint": "2e7468"
+				}
+			]
+		},
+		{
+			"key": "machete/end_stone",
+			"durability": 180,
+			"integrity": -2,
+			"magicCapacity": 132,
+			"damage": 4,
+			"attackSpeed": 0,
+			"effects": {
+				"sweeping": 1,
+				"strikingCut": 1,
+				"strikingStrike": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "f3f7bb"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/machete/metal",
+					"tint": "f3f7bb"
 				}
 			]
 		}

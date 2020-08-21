@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"outcomes": [
 		{
 			"material": {
@@ -21,6 +22,39 @@
 			},
 			"moduleKey": "sword/counterweight",
 			"moduleVariant": "counterweight/river"
+		},
+		{
+			"material": {
+				"item": "endreborn:endorium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/counterweight",
+			"moduleVariant": "counterweight/endorium"
+		},
+		{
+			"material": {
+				"item": "endreborn:wolframium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/counterweight",
+			"moduleVariant": "counterweight/tungsten"
+		},
+		{
+			"material": {
+				"item": "endreborn:burned_end_stone",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/counterweight",
+			"moduleVariant": "counterweight/end_stone"
 		}
 	]
 }

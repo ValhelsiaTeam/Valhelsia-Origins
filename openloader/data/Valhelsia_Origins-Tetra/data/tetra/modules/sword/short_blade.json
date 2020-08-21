@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"variants": [
 		{
 			"key": "short_blade/driftwood",
@@ -56,6 +57,76 @@
 				"location": "tetra:items/module/sword/blade/short/thrasher",
 				"tint": "fcfcfc"
 			}]
+		},
+		{
+			"key": "short_blade/tungsten",
+			"durability": 180,
+			"integrity": -1,
+			"magicCapacity": 42,
+			"damage": 4.5,
+			"attackSpeed": 1.5,
+			
+			"capabilities": {
+				"cut": [
+					2,
+					0.7
+				]
+			},
+			"glyph": {
+				"tint": "acccb3"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/short/metal",
+					"tint": "acccb3"
+				}
+			]
+		},
+		{
+			"key": "short_blade/endorium",
+			"durability": 344,
+			"integrity": -1,
+			"magicCapacity": 102,
+			"damage": 6,
+			"attackSpeed": 1.5,
+			"capabilities": {
+				"cut": [
+					2,
+					0.7
+				]
+			},
+			"glyph": {
+				"tint": "2e7468"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/short/metal",
+					"tint": "2e7468"
+				}
+			]
+		},
+		{
+			"key": "short_blade/end_stone",
+			"durability": 144,
+			"integrity": -1,
+			"magicCapacity": 132,
+			"damage": 3,
+			"attackSpeed": 1.5,
+			"capabilities": {
+				"cut": [
+					2,
+					0.7
+				]
+			},
+			"glyph": {
+				"tint": "f3f7bb"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/short/metal",
+					"tint": "f3f7bb"
+				}
+			]
 		}
 	]
 }

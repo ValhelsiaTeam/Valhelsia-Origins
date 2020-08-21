@@ -5,7 +5,7 @@
             "item": "minecraft:melon"
         },
         "requiredCapabilities": {
-            "hammer": 2
+            "hammer": 1
         },
         "lootTable": "tetra:actions/smash_melon"
     }	

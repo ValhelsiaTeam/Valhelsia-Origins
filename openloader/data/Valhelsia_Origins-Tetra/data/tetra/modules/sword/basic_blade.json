@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"variants": [
 		{
 			"key": "basic_blade/driftwood",
@@ -49,6 +50,84 @@
 				{
 					"location": "tetra:items/module/sword/blade/basic/crude",
 					"tint": "6d543b"
+				}
+			]
+		},
+		{
+			"key": "basic_blade/tungsten",
+			"durability": 230,
+			"integrity": -1,
+			"magicCapacity": 42,
+			"damage": 5.5,
+			"attackSpeed": 0.2,
+			"effects": {
+				"sweeping": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "acccb3"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/basic/metal",
+					"tint": "acccb3"
+				}
+			]
+		},
+		{
+			"key": "basic_blade/endorium",
+			"durability": 430,
+			"integrity": -1,
+			"magicCapacity": 102,
+			"damage": 7,
+			"attackSpeed": 0.2,
+			"effects": {
+				"sweeping": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "2e7468"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/basic/metal",
+					"tint": "2e7468"
+				}
+			]
+		},
+		{
+			"key": "basic_blade/end_stone",
+			"durability": 180,
+			"integrity": -1,
+			"magicCapacity": 132,
+			"damage": 4,
+			"attackSpeed": 0.2,
+			"effects": {
+				"sweeping": 1
+			},
+			"capabilities": {
+				"cut": [
+					1,
+					0.9375
+				]
+			},
+			"glyph": {
+				"tint": "f3f7bb"
+			},
+			"models": [
+				{
+					"location": "tetra:items/module/sword/blade/basic/metal",
+					"tint": "f3f7bb"
 				}
 			]
 		}

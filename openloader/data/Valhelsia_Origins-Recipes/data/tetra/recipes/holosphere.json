@@ -18,7 +18,13 @@
     },
     "result": {
       "item": "tetra:holo",
-      "count": 1
+      "count": 1,
+      "nbt": {
+        "holo/core": "holo/core",
+        "holo/core_material": "core/dim",
+        "holo/frame": "holo/frame",
+        "holo/frame_material": "frame/ancient"
+      }
     }
   }
   

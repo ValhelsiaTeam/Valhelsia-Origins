@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"outcomes": [
 		{
 			"material": {
@@ -21,6 +22,39 @@
 			},
 			"moduleKey": "sword/forefinger_ring",
 			"moduleVariant": "forefinger_ring/river"
+		},
+		{
+			"material": {
+				"item": "endreborn:endorium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/forefinger_ring",
+			"moduleVariant": "forefinger_ring/endorium"
+		},
+		{
+			"material": {
+				"item": "endreborn:wolframium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/forefinger_ring",
+			"moduleVariant": "forefinger_ring/tungsten"
+		},
+		{
+			"material": {
+				"item": "endreborn:burned_end_stone",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/forefinger_ring",
+			"moduleVariant": "forefinger_ring/end_stone"
 		}
 	]
 }

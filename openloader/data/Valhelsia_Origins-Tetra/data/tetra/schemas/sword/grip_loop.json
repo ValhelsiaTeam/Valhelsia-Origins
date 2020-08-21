@@ -1,4 +1,5 @@
 {
+	"replace": false,
 	"outcomes": [
 		{
 			"material": {
@@ -21,6 +22,39 @@
 			},
 			"moduleKey": "sword/grip_loop",
 			"moduleVariant": "grip_loop/river"
+		},
+		{
+			"material": {
+				"item": "endreborn:endorium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/grip_loop",
+			"moduleVariant": "grip_loop/endorium"
+		},
+		{
+			"material": {
+				"item": "endreborn:wolframium_ingot",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/grip_loop",
+			"moduleVariant": "grip_loop/tungsten"
+		},
+		{
+			"material": {
+				"item": "endreborn:burned_end_stone",
+				"count": 1
+			},
+			"requiredCapabilities": {
+				"hammer": 2
+			},
+			"moduleKey": "sword/grip_loop",
+			"moduleVariant": "grip_loop/end_stone"
 		}
 	]
 }
