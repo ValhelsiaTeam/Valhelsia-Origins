@@ -1,4 +1,6 @@
 {
+	"tetra.actions.comment": "---------- ACTIONS ----------",
+	"tetra.crush_enderpearl_action.label": "Crush",
 	"tetra.flatten_iron_action.label": "Flatten",
 	"tetra.flatten_copper_action.label": "Flatten",
 	"tetra.flatten_gold_action.label": "Flatten",
@@ -6,6 +8,7 @@
 	"tetra.flatten_brass_action.label": "Flatten",
 	"tetra.smash_melon_action.label": "Smash",
 	
+	"tetra.sabre.comment": "---------- SABRE ----------",
 	"tetra/schema/sword/saber.name": "Saber",
 	"tetra/schema/sword/saber.description": "Replace the current sword blade with a curved and much lighter blade that allows for faster attacks and better sweeping capability.",
 	"tetra/schema/sword/saber.slot1": "Blade material",
@@ -63,6 +66,7 @@
 	"tetra.variant.steel_saber": "Steel saber",
 	"tetra.variant.saber/steel.prefix": "Steel",
 
+	"tetra.rhomphaia.comment": "---------- RHOMPHAIA ----------",
 	"tetra/schema/sword/rhomphaia.name": "Rhomphaia",
 	"tetra/schema/sword/rhomphaia.description": "Replace the current sword blade with a curved blade that's slightly longer than the common blade, allowing for longer reach and better sweeping capability.",
 	"tetra/schema/sword/rhomphaia.slot1": "Blade material",
@@ -120,6 +124,7 @@
 	"tetra.variant.steel_rhomphaia": "Steel rhomphaia",
 	"tetra.variant.rhomphaia/steel.prefix": "Steel",
 
+	"tetra.katana.comment": "---------- KATANA ----------",
 	"tetra/schema/sword/katana.name": "Katana",
 	"tetra/schema/sword/katana.description": "Replace the current sword blade with a curved, folded blade, allowing for easier manueverability, and more damage against unarmed foes, at the cost of durability.",
 	"tetra/schema/sword/katana.slot1": "Blade material",
@@ -177,6 +182,7 @@
 	"tetra.variant.steel_katana": "Steel katana",
 	"tetra.variant.katana/steel.prefix": "Steel",
 	
+	"tetra.shields.comment": "---------- SHIELDS ----------",
 	"tetra/schema/shield/trim.name": "Apply trim",
 	"tetra/schema/shield/trim.description": "Frame the shield with a trim to increase its durability, the durability bonus is multiplicative.",
 	"tetra/schema/shield/trim.slot1": "Material",
@@ -270,14 +276,9 @@
 	"tetra.variant.basic_maple_grip":"Basic maple grip",
 	"tetra.variant.basic_cherry_grip":"Basic cherry grip",
 	"tetra.variant.basic_baobab_grip":"Basic baobab grip",
-	
-	"tetra/schema/double/basic_handle/basic_handle.name": "Basic handle",
-	"tetra/schema/double/basic_handle/basic_handle.description": "Replace the handle for the head. A sturdier handle supports heavier and more advanced tool heads.",
-	"tetra/schema/double/basic_handle/basic_handle.slot1": "Handle material",
 
-	"tetra.module.double/basic_handle.name": "Basic handle",
-	"tetra.module.double/basic_handle.description": "A basic tool handle. Handles are the primary source of integrity for tools.",
 
+	"tetra.handles.comment": "---------- HANDLES ----------",
 	"tetra.variant.basic_gold_handle": "Gold handle",
 	"tetra.variant.basic_brass_handle": "Brass handle",
 	"tetra.variant.basic_copper_handle": "Copper handle",
@@ -287,12 +288,7 @@
 	"tetra.variant.basic_lead_handle": "Lead handle",
 	"tetra.variant.basic_electrum_handle": "Electrum handle",
 
-	"tetra/schema/double/binding.name": "Binding",
-	"tetra/schema/double/binding.description": "Bind the tool head to the handle by binding it with rope or straps, or by using completely different materials and methods.",
-	"tetra/schema/double/binding.slot1": "Material",
-
-	"tetra.module.double/binding.name": "Binding",
-
+	"tetra.bindings.comment": "---------- BINDINGS ----------",
 	"tetra.variant.double_iron_binding": "Iron binding",
 	"tetra.variant.double_iron_binding/description": "Basic metal binding forged to strengthen the tool head's attachment to the handle.",
 	"tetra.variant.double_gold_binding": "Gold binding",
@@ -335,6 +331,7 @@
 	"tetra.variant.double_steel_plate_binding": "Steel-Plate binding",
 	"tetra.variant.double_steel_plate_binding/description": "Plated metal binding forged to give extra strengthen the tool head's attachment to the handle.",
 	
+	"tetra.upgrade_aquatic.comment": "---------- UPGRADE AQUATIC SUPPORT ----------",
 	"tetra.variant.basic_hilt/prismarine": "Prismarine rod",
 	"tetra.variant.basic_handle/prismarine": "Prismarine rod",
 	"tetra.variant.light_handle/prismarine_rod": "Light prismarine rod",
@@ -415,11 +412,13 @@
 	"advancements.adventure.unident": "Unident",
 	"advancements.adventure.unident.description": "Craft a trident with a single point.",
 	
+	"tetra.druidcraft.comment": "---------- DRUIDCRAFT SUPPORT ----------",
 	"tetra.variant.basic_pickaxe/moonstone": "Moonstone pick",
 	"tetra.variant.basic_handle/moonstone": "Moonstone balanced handle",
 	"tetra.variant.basic_axe/moonstone": "Moonstone axe",
 	"tetra.variant.butt/moonstone": "Moonstone butt",
 
+	"tetra.savage_and_ravage.comment": "---------- SAVAGE AND RAVAGE SUPPORT ----------",
 	"tetra.variant.buckler/griefer": "Blast-proof buckler plate",
 	"tetra.variant.heater/griefer": "Blast-proof heater plate",
 	"tetra.variant.tower/griefer": "Blast-proof tower plate",
