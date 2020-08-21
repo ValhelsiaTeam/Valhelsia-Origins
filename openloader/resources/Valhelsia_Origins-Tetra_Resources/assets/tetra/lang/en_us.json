@@ -414,8 +414,11 @@
 	
 	"tetra.druidcraft.comment": "---------- DRUIDCRAFT SUPPORT ----------",
 	"tetra.variant.basic_pickaxe/moonstone": "Moonstone pick",
+	"tetra.variant.basic_pickaxe/moonstone.prefix": "Moonstone",
 	"tetra.variant.basic_handle/moonstone": "Moonstone balanced handle",
+	"tetra.variant.basic_handle/moonstone.prefix": "Moonstone",
 	"tetra.variant.basic_axe/moonstone": "Moonstone axe",
+	"tetra.variant.basic_axe/moonstone.prefix": "Moonstone",
 	"tetra.variant.butt/moonstone": "Moonstone butt",
 
 	"tetra.savage_and_ravage.comment": "---------- SAVAGE AND RAVAGE SUPPORT ----------",
