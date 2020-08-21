@@ -1,0 +1,11 @@
+{
+    "type": "ceramics:kiln",
+    "ingredient": {
+      "item": "swamp_expansion:mud_ball"
+    },
+    "result": {
+      "item": "swamp_expansion:mud_brick"
+    },
+    "experience": 0.1,
+    "cookingtime": 100
+  }
