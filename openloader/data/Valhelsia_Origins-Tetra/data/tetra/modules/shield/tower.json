@@ -47,17 +47,16 @@
 		{
 			"key": "tower/griefer",
 			"durability": 465,
-			"integrity": -2,
+			"integrity": -3,
 			"magicCapacity": 104,
-			"attackSpeed": 9,
-			"damage": 7,
+			"attackSpeed": 8,
+            "damage": 7,
 			"effects": {
 				"blocking": 16,
 				"toughness": 2
 			},
 			"glyph": {
 				"tint": "537036",
-				"textureX": 48,
 				"textureY": 48
 			},
 			"models": [

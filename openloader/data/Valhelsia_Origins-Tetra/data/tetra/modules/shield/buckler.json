@@ -51,8 +51,8 @@
 			"durability": 465,
 			"integrity": -2,
 			"magicCapacity": 104,
-			"attackSpeed": 4,
-			"damage": 3,
+			"attackSpeed": 3,
+            "damage": 3,
 			"effects": {
 				"toughness": 6
 			},
