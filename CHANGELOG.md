@@ -1,3 +1,73 @@
+# Changelog 1.1.0
+
+![100% center](https://zupimages.net/up/20/17/mfyp.png)
+**Forge 31.2.36**
+
+
+### Mods added:
++ Astral Sorcery
++ Champions
++ Chicken Chunks
++ ConnectedTexturesMod
++ Culinary Construct
++ End: Reborn
++ Glassential
++ Immersive Posts
++ Joy of Painting
++ Music Maker Mod
++ Mystical World
+
+### Mods removed:
+- CraftPresence
+- NetherPortalFix
+- Persistent Bits
+
+### Updated:
+- Kiwi-1.15.2-2.8.3
+- Botania-r1.15-388
+- bwncr-1.15.2-3.6.13
+- Clumps 5.0.2.5
+- CodeChicken Lib 1.15.2-3.3.1.379-universal
+- CraftTweaker-1.15.2-6.0.0.39
+- Curios 1.15.2-2.0.2.6
+- Decorative Blocks 1.15.2-1.7
+- DoubleSlabs 1.15-2.10.1
+- DrawersTooltip 1.15.2-1.1.0
+- Druidcraft 1.15-0.4.31
+- Ender Storage 1.15.2-2.5.0.151-universal
+- Engineer's Decor 1.15.2-1.1.2
+- Fairy Lights 3.0.8-1.15.2
+- Forbidden and Arcanus 1.15.2-1.5
+- FTB Backups 2.1.0.2
+- ImmersiveEngineering 1.15.2-3.1-111
+- InventoryHUD+ 1.15.2.forge-3.1.0
+- JAOPCA 1.15.2-3.2.0.14
+- JEIEnchantmentInfo 1.16.1-1.2.0
+- JEI Integration 1.15.2-3.1.1.2
+- LightOverlay [Forge / Fabric 1.15.x] v4.7.1
+- Macaw's Windows 1.15.2-v1.0.
+- PackMenu 1.15.2-1.2.7
+- Polymorph 1.15.2-0.10
+- Psi r1.2-83
+- RandomPatches 1.15.2-1.22.1.1
+- ServerTabInfo 1.15.2-1.2.8.jar
+- Sound Filters 0.14_for_1.15.2
+- Step 1.15.2-v1.0.3
+- Structurize 0.13.42-ALPHA
+- Tetra 1.15.2-2.18.1
+- The Conjurer 1.15.2-1.0.7
+- Torchmaster 2.2.2
+- Xaero's Minimap v20.20.1 for Forge 1.15.2
+- Xaero's World Map v1.10.1 for Forge 1.15.2
+
+### Changes:
+- Added some new loot to Treasure Pots.
+- Add End: Reborn support to Tetra.
+- Misc Tetra Tweaks.
+- Fix some IE Cloche Recipes
+- Add Russian and Brazillian Portuguese PackMenu translations.
+- Update WAILA config.
+
 # Changelog 1.0.2
 
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
@@ -103,10 +173,4 @@
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
 **Forge 31.2.27**
 
-### Mods added:
-
-### Mod removed:
-
-### Updated:
-
-### Changes:
+- Initial Release
