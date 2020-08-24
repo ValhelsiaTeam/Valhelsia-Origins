@@ -15,6 +15,6 @@
   "time": 640,
   "render": {
     "type": "crop",
-    "block": "forbidden_arcanus:tall_cattail"
+    "block": "swampexpansion:tall_cattail"
   }
 }
