@@ -132,7 +132,7 @@
 	#If you are holding a Totem of Preserving when you die, your items will be stored safely inside it.
 	#You can also preserve your current inventory at any time by crouch-clicking while holding a totem.  Right click again to restore the inventory.
 	"TotemOfPreserving enabled" = true
-	"TotemOfShielding enabled" = true
+	"TotemOfShielding enabled" = false
 	#An Illusioner drops a totem when killed by a player.
 	"IllusionersDropTotems enabled" = true
 	"TotemOfFlying enabled" = true
