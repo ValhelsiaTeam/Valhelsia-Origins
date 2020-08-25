@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "astralsorcery:marble_raw"
+  },
+  "result": "quark:marble",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "marble"
+    }
+  ]
+}
