@@ -12,7 +12,7 @@
   "soil": {
     "item": "minecraft:dirt"
   },
-  "time": 640,
+  "time": 560,
   "render": {
     "type": "crop",
     "block": "swampexpansion:tall_cattail"
