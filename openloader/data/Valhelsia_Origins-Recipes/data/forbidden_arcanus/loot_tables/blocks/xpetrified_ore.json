@@ -2,7 +2,7 @@
 	"type": "minecraft:block",
 	"pools": [
 		{
-			"name": "forbidden_arcanus:arcane_crystal_ore",
+			"name": "forbidden_arcanus:xpetrified_ore",
 			"rolls": 1,
 			"entries": [
 				{
@@ -27,18 +27,18 @@
 							],
 							"name": "forbidden_arcanus:xpetrified_ore"
 						},
-            {
-					    "type": "minecraft:item",
-					    "name": "forbidden_arcanus:xpetrified_orb"
-				    }
-			    ],
-			    "conditions": [
-				   {
-					"condition": "minecraft:survives_explosion"
-				    }
-			    ]
-		    }
-	    ]
-    }
-  ]
+						{	
+							"type": "minecraft:item",
+							"name": "forbidden_arcanus:xpetrified_orb"
+						}
+					],
+					"conditions": [
+						{
+							"condition": "minecraft:survives_explosion"
+						}
+					]
+				}
+			]
+		}
+	]
 }
