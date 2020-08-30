@@ -1,8 +1,0 @@
-{
-    "type": "druidcraft:woodcutting",
-    "ingredient": {
-      "tag":"druidcraft:darkwood_wood"
-    },
-    "result": "atmospheric:grimwood",
-    "count": 1
-  }

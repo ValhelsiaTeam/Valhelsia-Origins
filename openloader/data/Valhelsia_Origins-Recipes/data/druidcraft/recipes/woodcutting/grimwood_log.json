@@ -1,8 +1,0 @@
-{
-    "type": "druidcraft:woodcutting",
-    "ingredient": {
-      "tag":"druidcraft:darkwood_log"
-    },
-    "result": "atmospheric:grimwood_log",
-    "count": 1
-  }
