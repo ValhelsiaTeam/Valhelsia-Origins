@@ -18,7 +18,7 @@
 		{
 			"item": "minecraft:netherrack",
 			"count": 1,
-			"chance": 0.12
+			"chance": 0.125
 		}
 	],
 	"processingTime": 50
