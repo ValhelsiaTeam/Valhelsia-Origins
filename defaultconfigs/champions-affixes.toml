@@ -47,7 +47,7 @@
 	mobList = []
 	mobPermission = "BLACKLIST"
 	minTier = 1
-	enabled = true
+	enabled = false
 
 [[affixes]]
 	identifier = "knocking"
