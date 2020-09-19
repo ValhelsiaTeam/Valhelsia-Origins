@@ -3,7 +3,7 @@
   "display": {
     "icon": {
       "item": "tetra:modular_single",
-		"nbt": "{\"single/light_handle_material\": \"light_handle/prismarine_rod\",\"single/binding_material\": \"single_binding/prismarine\", \"single/spearhead_material\": \"spearhead/thrasher\", \"single/binding\": \"single/binding\", \"single/handle\": \"single/light_handle\", \"single/head\": \"single/spearhead\"}"
+      "nbt": "{\"single/light_handle_material\": \"light_handle/prismarine_rod\",\"single/binding_material\": \"single_binding/prismarine\", \"single/spearhead_material\": \"spearhead/thrasher\", \"single/binding\": \"single/binding\", \"single/handle\": \"single/light_handle\", \"single/head\": \"single/spearhead\"}"
     },
     "title": {
       "translate": "advancements.adventure.unident"
@@ -23,7 +23,7 @@
         "items": [
           {
             "item": "tetra:modular_single",
-			"nbt": "{\"single/light_handle_material\": \"light_handle/prismarine_rod\",\"single/binding_material\": \"single_binding/prismarine\", \"single/spearhead_material\": \"spearhead/thrasher\", \"single/binding\": \"single/binding\", \"single/handle\": \"single/light_handle\", \"single/head\": \"single/spearhead\"}"
+            "nbt": "{\"single/light_handle_material\": \"light_handle/prismarine_rod\",\"single/binding_material\": \"single_binding/prismarine\", \"single/spearhead_material\": \"spearhead/thrasher\", \"single/binding\": \"single/binding\", \"single/handle\": \"single/light_handle\", \"single/head\": \"single/spearhead\"}"
           }
         ]
       }

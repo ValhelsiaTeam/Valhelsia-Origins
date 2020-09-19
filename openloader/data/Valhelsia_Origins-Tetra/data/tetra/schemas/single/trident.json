@@ -1,25 +1,25 @@
 {
-    "replace": true,
-    "slots": [
-        "single/head"
-    ],
-    "materialSlotCount": 1,
-    "displayType": "major",
-    "glyph": {
-        "textureX": 192,
-        "textureY": 32
-    },
-    "outcomes": [
-        {
-            "material": {
-                "item": "upgrade_aquatic:thrasher_tooth",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 4
-            },
-            "moduleKey": "single/trident",
-            "moduleVariant": "trident/trident"
-        }
-	]
+  "replace": true,
+  "slots": [
+    "single/head"
+  ],
+  "materialSlotCount": 1,
+  "displayType": "major",
+  "glyph": {
+    "textureX": 192,
+    "textureY": 32
+  },
+  "outcomes": [
+    {
+      "material": {
+        "item": "upgrade_aquatic:thrasher_tooth",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "single/trident",
+      "moduleVariant": "trident/trident"
+    }
+  ]
 }

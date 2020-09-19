@@ -1,52 +1,52 @@
 [
-	{
-		"key": "flatten_iron_action",
-		"requirement": {
-			"item": "minecraft:iron_ingot"
-		},
-		"requiredCapabilities": {
-			"hammer": 2
-		},
-		"lootTable": "tetra:actions/flatten_iron"
-	},
-	{
-		"key": "flatten_gold_action",
-		"requirement": {
-			"item": "minecraft:gold_ingot"
-		},
-		"requiredCapabilities": {
-			"hammer": 2
-		},
-		"lootTable": "tetra:actions/flatten_gold"
-	},
-	{
-		"key": "flatten_copper_action",
-		"requirement": {
-			"item": "create:copper_ingot"
-		},
-		"requiredCapabilities": {
-			"hammer": 2
-		},
-		"lootTable": "tetra:actions/flatten_copper"
-	},
-	{
-		"key": "flatten_brass_action",
-		"requirement": {
-			"item": "create:brass_ingot"
-		},
-		"requiredCapabilities": {
-			"hammer": 2
-		},
-		"lootTable": "tetra:actions/flatten_brass"
-	},
-	{
-		"key": "flatten_lapis_action",
-		"requirement": {
-			"item": "minecraft:lapis_block"
-		},
-		"requiredCapabilities": {
-			"hammer": 2
-		},
-		"lootTable": "tetra:actions/flatten_lapis"
-	}
+  {
+    "key": "flatten_iron_action",
+    "requirement": {
+      "item": "minecraft:iron_ingot"
+    },
+    "requiredCapabilities": {
+      "hammer": 2
+    },
+    "lootTable": "tetra:actions/flatten_iron"
+  },
+  {
+    "key": "flatten_gold_action",
+    "requirement": {
+      "item": "minecraft:gold_ingot"
+    },
+    "requiredCapabilities": {
+      "hammer": 2
+    },
+    "lootTable": "tetra:actions/flatten_gold"
+  },
+  {
+    "key": "flatten_copper_action",
+    "requirement": {
+      "item": "create:copper_ingot"
+    },
+    "requiredCapabilities": {
+      "hammer": 2
+    },
+    "lootTable": "tetra:actions/flatten_copper"
+  },
+  {
+    "key": "flatten_brass_action",
+    "requirement": {
+      "item": "create:brass_ingot"
+    },
+    "requiredCapabilities": {
+      "hammer": 2
+    },
+    "lootTable": "tetra:actions/flatten_brass"
+  },
+  {
+    "key": "flatten_lapis_action",
+    "requirement": {
+      "item": "minecraft:lapis_block"
+    },
+    "requiredCapabilities": {
+      "hammer": 2
+    },
+    "lootTable": "tetra:actions/flatten_lapis"
+  }
 ]

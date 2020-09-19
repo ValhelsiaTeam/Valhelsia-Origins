@@ -1,133 +1,133 @@
 {
-    "replace": false,
-    "slots": [
-        "double/handle"
-    ],
-    "materialSlotCount": 1,
-    "displayType": "major",
-    "glyph": {
-        "textureX": 16
+  "replace": false,
+  "slots": [
+    "double/handle"
+  ],
+  "materialSlotCount": 1,
+  "displayType": "major",
+  "glyph": {
+    "textureX": 16
+  },
+  "outcomes": [
+    {
+      "material": {
+        "item": "minecraft:gold_ingot"
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_gold_handle"
     },
-    "outcomes": [
-        {
-            "material": {
-                "item": "minecraft:gold_ingot"
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_gold_handle"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/brass"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_brass_handle"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/copper"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_copper_handle"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/tin"
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_tin_handle"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/silver"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_silver_handle"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/nickel"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_nickel_handle"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/lead"
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_lead_handle"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/electrum"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "double/basic_handle",
-            "moduleVariant": "basic_electrum_handle"
-        },
-		{
-			"material": {
-				"item": "upgrade_aquatic:driftwood_planks"
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "double/basic_handle",
-			"moduleVariant": "basic_handle/driftwood"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:river_planks"
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "double/basic_handle",
-			"moduleVariant": "basic_handle/river"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:prismarine_rod"
-			},
-			"requiredCapabilities": {
-				"hammer": 4
-			},
-			"moduleKey": "double/basic_handle",
-			"moduleVariant": "basic_handle/prismarine"
-		},
-		{
-			"material": {
-				"tag": "forge:gems/moonstone"
-			},
-			"requiredCapabilities": {
-        		"hammer": 4
-        	},
-			"moduleKey": "double/basic_handle",
-			"moduleVariant": "basic_handle/moonstone"
-		}
-    ]
+    {
+      "material": {
+        "tag": "forge:ingots/brass"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_brass_handle"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/copper"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_copper_handle"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/tin"
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_tin_handle"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/silver"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_silver_handle"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/nickel"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_nickel_handle"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/lead"
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_lead_handle"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/electrum"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_electrum_handle"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:driftwood_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_handle/driftwood"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:river_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_handle/river"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:prismarine_rod"
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_handle/prismarine"
+    },
+    {
+      "material": {
+        "tag": "forge:gems/moonstone"
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "double/basic_handle",
+      "moduleVariant": "basic_handle/moonstone"
+    }
+  ]
 }

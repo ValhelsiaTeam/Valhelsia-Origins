@@ -1,19 +1,19 @@
 {
-    "type": "create:crushing",
-    "ingredients": [
-    	{
-    		"item": "quark:ravager_hide"
-    	}
-    ],
-	"results": [
-		{
-			"item": "minecraft:leather",
-			"count": 2
-		},
-		{
-			"item": "charm:pig_iron_nugget",
-			"count": 2
-		}
-	],
-	"processingTime": 50
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "quark:ravager_hide"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:leather",
+      "count": 2
+    },
+    {
+      "item": "charm:pig_iron_nugget",
+      "count": 2
+    }
+  ],
+  "processingTime": 50
 }

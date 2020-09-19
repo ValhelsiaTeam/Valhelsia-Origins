@@ -1,37 +1,37 @@
 {
-	"outcomes": [
-		{
-			"material": {
-				"item": "upgrade_aquatic:driftwood_planks",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "single/spearhead",
-			"moduleVariant": "spearhead/driftwood"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:river_planks",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "single/spearhead",
-			"moduleVariant": "spearhead/river"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:thrasher_tooth",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"hammer": 4
-			},
-			"moduleKey": "single/spearhead",
-			"moduleVariant": "spearhead/thrasher"
-		}
-	]
+  "outcomes": [
+    {
+      "material": {
+        "item": "upgrade_aquatic:driftwood_planks",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "single/spearhead",
+      "moduleVariant": "spearhead/driftwood"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:river_planks",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "single/spearhead",
+      "moduleVariant": "spearhead/river"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:thrasher_tooth",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "single/spearhead",
+      "moduleVariant": "spearhead/thrasher"
+    }
+  ]
 }

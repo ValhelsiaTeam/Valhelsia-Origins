@@ -1,47 +1,53 @@
 {
-    "replace": false,
-	"variants": [
-	    {
-            "key": "makeshift_guard/tungsten",
-            "durability": 12,
-            "attackSpeed": -0.15,
-            "glyph": {
-                "tint": "acccb3",
-                "textureX": 7,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/guard/makeshift_guard/default",
-                "tint": "acccb3"
-            }]
-        },
-		{
-            "key": "makeshift_guard/endorium",
-            "durability": 46,
-            "attackSpeed": -0.15,
-            "glyph": {
-                "tint": "2e7468",
-                "textureX": 7,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/guard/makeshift_guard/default",
-                "tint": "2e7468"
-            }]
-        },
-		{
-            "key": "makeshift_guard/end_stone",
-            "durability": 12,
-            "attackSpeed": -0.15,
-            "glyph": {
-                "tint": "f3f7bb",
-                "textureX": 7,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/guard/makeshift_guard/default",
-                "tint": "f3f7bb"
-            }]
+  "replace": false,
+  "variants": [
+    {
+      "key": "makeshift_guard/tungsten",
+      "durability": 12,
+      "attackSpeed": -0.15,
+      "glyph": {
+        "tint": "acccb3",
+        "textureX": 7,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/makeshift_guard/default",
+          "tint": "acccb3"
         }
-	]
+      ]
+    },
+    {
+      "key": "makeshift_guard/endorium",
+      "durability": 46,
+      "attackSpeed": -0.15,
+      "glyph": {
+        "tint": "2e7468",
+        "textureX": 7,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/makeshift_guard/default",
+          "tint": "2e7468"
+        }
+      ]
+    },
+    {
+      "key": "makeshift_guard/end_stone",
+      "durability": 12,
+      "attackSpeed": -0.15,
+      "glyph": {
+        "tint": "f3f7bb",
+        "textureX": 7,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/makeshift_guard/default",
+          "tint": "f3f7bb"
+        }
+      ]
+    }
+  ]
 }

@@ -1,60 +1,60 @@
 {
-	"replace": false,
-	"outcomes": [
-		{
-			"material": {
-				"item": "upgrade_aquatic:driftwood_planks",
-				"count": 2
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "sword/basic_blade",
-			"moduleVariant": "basic_blade/driftwood"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:river_planks",
-				"count": 2
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "sword/basic_blade",
-			"moduleVariant": "basic_blade/river"
-		},
-		{
-			"material": {
-				"item": "endreborn:endorium_ingot",
-				"count": 2
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/basic_blade",
-			"moduleVariant": "basic_blade/endorium"
-		},
-		{
-			"material": {
-				"item": "endreborn:wolframium_ingot",
-				"count": 2
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/basic_blade",
-			"moduleVariant": "basic_blade/tungsten"
-		},
-		{
-			"material": {
-				"item": "endreborn:burned_end_stone",
-				"count": 2
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/basic_blade",
-			"moduleVariant": "basic_blade/end_stone"
-		}
-	]
+  "replace": false,
+  "outcomes": [
+    {
+      "material": {
+        "item": "upgrade_aquatic:driftwood_planks",
+        "count": 2
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "sword/basic_blade",
+      "moduleVariant": "basic_blade/driftwood"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:river_planks",
+        "count": 2
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "sword/basic_blade",
+      "moduleVariant": "basic_blade/river"
+    },
+    {
+      "material": {
+        "item": "endreborn:endorium_ingot",
+        "count": 2
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/basic_blade",
+      "moduleVariant": "basic_blade/endorium"
+    },
+    {
+      "material": {
+        "item": "endreborn:wolframium_ingot",
+        "count": 2
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/basic_blade",
+      "moduleVariant": "basic_blade/tungsten"
+    },
+    {
+      "material": {
+        "item": "endreborn:burned_end_stone",
+        "count": 2
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/basic_blade",
+      "moduleVariant": "basic_blade/end_stone"
+    }
+  ]
 }

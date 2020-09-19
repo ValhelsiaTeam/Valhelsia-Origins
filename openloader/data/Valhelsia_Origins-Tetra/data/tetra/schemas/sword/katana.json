@@ -1,297 +1,297 @@
 {
-    "replace": true,
-    "slots": [
-        "sword/blade"
-    ],
-    "materialSlotCount": 1,
-    "displayType": "major",
-	"glyph": {
-		"textureLocation": "tetra:textures/gui/katana_glyph.png"
-	},
-	"outcomes": [
-		{
-            "material": {
-                "item": "minecraft:oak_planks",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "oak_katana"
-        },
-		{
-            "material": {
-                "item": "minecraft:spruce_planks",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "spruce_katana"
-        },
-		{
-            "material": {
-                "item": "minecraft:birch_planks",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "birch_katana"
-        },
-		{
-            "material": {
-                "item": "minecraft:jungle_planks",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "jungle_katana"
-        },
-		{
-            "material": {
-                "item": "minecraft:acacia_planks",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "axe": 2
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "acacia_katana"
-        },
-		{
-            "material": {
-                "item": "minecraft:jungle_planks",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "jungle_katana"
-        },
-		{
-            "material": {
-                "item": "minecraft:dark_oak_planks",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "axe": 2
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "dark_oak_katana"
-        },
-		{
-			"material": {
-				"tag": "forge:cobblestone",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "cobblestone_katana"
-		},
-		{
-			"material": {
-				"item": "minecraft:stone",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "stone_katana"
-		},
-		{
-			"material": {
-				"item": "minecraft:granite",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "granite_katana"
-		},
-		{
-			"material": {
-				"item": "minecraft:diorite",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "diorite_katana"
-		},
-		{
-			"material": {
-				"item": "minecraft:andesite",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "andesite_katana",
-			"improvements": {
-				"arrested": 0
-			}
-		},
-		{
-			"material": {
-				"item": "minecraft:iron_ingot",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 3
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "iron_katana"
-		},
-		{
-			"material": {
-				"item": "minecraft:flint",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "flint_katana"
-		},
-		{
-			"material": {
-				"item": "minecraft:gold_ingot",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "gold_katana"
-		},
-		{
-			"material": {
-				"tag": "forge:gems/diamond",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 3
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "diamond_katana",
-			"improvements": {
-				"arrested": 0
-			}
-		},
-		{
-			"material": {
-				"item": "minecraft:obsidian",
-				"count": 3
-			},
-			"requiredCapabilities": {
-				"hammer": 4
-			},
-			"moduleKey": "sword/katana",
-			"moduleVariant": "obsidian_katana",
-			"improvements": {
-				"arrested": 0
-			}
-		},
-        {
-            "material": {
-                "tag": "forge:ingots/copper",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "copper_katana"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/tin",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "tin_katana"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/silver",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "silver_katana"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/nickel",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "nickel_katana"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/lead",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "lead_katana"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/bronze",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "bronze_katana"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/electrum",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "electrum_katana"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/steel",
-                "count": 3
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "sword/katana",
-            "moduleVariant": "steel_katana"
-        }
-	]
+  "replace": true,
+  "slots": [
+    "sword/blade"
+  ],
+  "materialSlotCount": 1,
+  "displayType": "major",
+  "glyph": {
+    "textureLocation": "tetra:textures/gui/katana_glyph.png"
+  },
+  "outcomes": [
+    {
+      "material": {
+        "item": "minecraft:oak_planks",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "oak_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:spruce_planks",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "spruce_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:birch_planks",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "birch_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:jungle_planks",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "jungle_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:acacia_planks",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "axe": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "acacia_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:jungle_planks",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "jungle_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:dark_oak_planks",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "axe": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "dark_oak_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:cobblestone",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "cobblestone_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:stone",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "stone_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:granite",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "granite_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:diorite",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "diorite_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:andesite",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "andesite_katana",
+      "improvements": {
+        "arrested": 0
+      }
+    },
+    {
+      "material": {
+        "item": "minecraft:iron_ingot",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "iron_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:flint",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "flint_katana"
+    },
+    {
+      "material": {
+        "item": "minecraft:gold_ingot",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "gold_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:gems/diamond",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "diamond_katana",
+      "improvements": {
+        "arrested": 0
+      }
+    },
+    {
+      "material": {
+        "item": "minecraft:obsidian",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "obsidian_katana",
+      "improvements": {
+        "arrested": 0
+      }
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/copper",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "copper_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/tin",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "tin_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/silver",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "silver_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/nickel",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "nickel_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/lead",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "lead_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/bronze",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "bronze_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/electrum",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "electrum_katana"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/steel",
+        "count": 3
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "sword/katana",
+      "moduleVariant": "steel_katana"
+    }
+  ]
 }

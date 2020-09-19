@@ -1,7 +1,7 @@
 {
   "type": "druidcraft:woodcutting",
   "ingredient": {
-    "tag":"minecraft:acacia_logs"
+    "tag": "minecraft:acacia_logs"
   },
   "result": "decorative_blocks:acacia_palisade",
   "count": 3

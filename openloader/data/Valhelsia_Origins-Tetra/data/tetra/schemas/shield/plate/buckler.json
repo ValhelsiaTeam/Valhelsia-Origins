@@ -1,34 +1,34 @@
 {
-	"outcomes": [
-		{
-			"material": {
-				"item": "upgrade_aquatic:driftwood_planks"
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "shield/buckler",
-			"moduleVariant": "buckler/driftwood"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:river_planks"
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "shield/buckler",
-			"moduleVariant": "buckler/river"
-		},
-		{
-			"material": {
-				"item": "savageandravage:blast_proof_plating"
-			},
-			"requiredCapabilities": {
-				"hammer": 3
-			},
-			"moduleKey": "shield/buckler",
-			"moduleVariant": "buckler/griefer"
-		}
-	]
+  "outcomes": [
+    {
+      "material": {
+        "item": "upgrade_aquatic:driftwood_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/buckler",
+      "moduleVariant": "buckler/driftwood"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:river_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/buckler",
+      "moduleVariant": "buckler/river"
+    },
+    {
+      "material": {
+        "item": "savageandravage:blast_proof_plating"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "shield/buckler",
+      "moduleVariant": "buckler/griefer"
+    }
+  ]
 }

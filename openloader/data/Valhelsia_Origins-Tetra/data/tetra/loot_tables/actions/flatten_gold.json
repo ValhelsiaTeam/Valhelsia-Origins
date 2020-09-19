@@ -1,24 +1,24 @@
 {
-    "pools": [
+  "pools": [
+    {
+      "name": "flatten_gold",
+      "rolls": 1,
+      "entries": [
         {
-            "name": "flatten_gold",
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "create:golden_sheet",
-                    "functions": [
-                        {
-                            "function": "minecraft:apply_bonus",
-                            "enchantment":"minecraft:fortune",
-                            "formula": "uniform_bonus_count",
-                            "parameters": {
-                                "bonusMultiplier": 1
-                            }
-                        }
-                    ]
-                }
-            ]
+          "type": "item",
+          "name": "create:golden_sheet",
+          "functions": [
+            {
+              "function": "minecraft:apply_bonus",
+              "enchantment": "minecraft:fortune",
+              "formula": "uniform_bonus_count",
+              "parameters": {
+                "bonusMultiplier": 1
+              }
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

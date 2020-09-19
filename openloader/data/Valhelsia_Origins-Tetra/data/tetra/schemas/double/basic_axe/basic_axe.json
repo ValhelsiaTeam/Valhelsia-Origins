@@ -1,13 +1,15 @@
 {
-	"outcomes": [{
-		"material": {
-			"item": "druidcraft:moonstone",
-			"count": 2
-		},
-		"requiredCapabilities": {
-			"hammer": 3
-		},
-		"moduleKey": "double/basic_axe",
-		"moduleVariant": "basic_axe/moonstone"
-	}]
+  "outcomes": [
+    {
+      "material": {
+        "item": "druidcraft:moonstone",
+        "count": 2
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "double/basic_axe",
+      "moduleVariant": "basic_axe/moonstone"
+    }
+  ]
 }

@@ -1,137 +1,137 @@
 {
-	"replace": false,
-	"variants": [
-		{
-			"key": "heavy_blade/driftwood",
-			"durability": 75,
-			"integrity": -2,
-			"magicCapacity": 132,
-			"damage": 3,
-			"attackSpeed": -0.4,
-			"glyph": {
-				"tint": "5d574e",
-				"textureX": 48
-			},
-			"effects": {
-				"sweeping": 3
-			},
-			"capabilities": {
-				"cut": [
-					1,
-					1
-				]
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/sword/blade/heavy/crude",
-					"tint": "5d574e"
-				}
-			]
-		},
-		{
-			"key": "heavy_blade/river",
-			"durability": 75,
-			"integrity": -2,
-			"magicCapacity": 102,
-			"damage": 3,
-			"attackSpeed": -0.3,
-			"glyph": {
-				"tint": "6d543b",
-				"textureX": 48
-			},
-			"effects": {
-				"sweeping": 3
-			},
-			"capabilities": {
-				"cut": [
-					1,
-					1
-				]
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/sword/blade/heavy/crude",
-					"tint": "6d543b"
-				}
-			]
-		},
-		{
-			"key": "heavy_blade/tungsten",
-			"durability": 460,
-			"integrity": -3,
-			"magicCapacity": 42,
-			"damage": 6.5,
-			"attackSpeed": -0.6,
-			"effects": {
-				"sweeping": 3
-			},
-			"capabilities": {
-				"cut": [
-					1,
-					1
-				]
-			},
-			"glyph": {
-				"tint": "acccb3"
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/sword/blade/heavy/metal",
-					"tint": "acccb3"
-				}
-			]
-		},
-		{
-			"key": "heavy_blade/endorium",
-			"durability": 860,
-			"integrity": -3,
-			"magicCapacity": 102,
-			"damage": 8,
-			"attackSpeed": -0.6,
-			"effects": {
-				"sweeping": 3
-			},
-			"capabilities": {
-				"cut": [
-					1,
-					1
-				]
-			},
-			"glyph": {
-				"tint": "2e7468"
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/sword/blade/heavy/metal",
-					"tint": "2e7468"
-				}
-			]
-		},
-		{
-			"key": "heavy_blade/end_stone",
-			"durability": 360,
-			"integrity": -2,
-			"magicCapacity": 132,
-			"damage": 5,
-			"attackSpeed": -0.6,
-			"effects": {
-				"sweeping": 3
-			},
-			"capabilities": {
-				"cut": [
-					1,
-					1
-				]
-			},
-			"glyph": {
-				"tint": "f3f7bb"
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/sword/blade/heavy/metal",
-					"tint": "f3f7bb"
-				}
-			]
-		}
-	]
+  "replace": false,
+  "variants": [
+    {
+      "key": "heavy_blade/driftwood",
+      "durability": 75,
+      "integrity": -2,
+      "magicCapacity": 132,
+      "damage": 3,
+      "attackSpeed": -0.4,
+      "glyph": {
+        "tint": "5d574e",
+        "textureX": 48
+      },
+      "effects": {
+        "sweeping": 3
+      },
+      "capabilities": {
+        "cut": [
+          1,
+          1
+        ]
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/blade/heavy/crude",
+          "tint": "5d574e"
+        }
+      ]
+    },
+    {
+      "key": "heavy_blade/river",
+      "durability": 75,
+      "integrity": -2,
+      "magicCapacity": 102,
+      "damage": 3,
+      "attackSpeed": -0.3,
+      "glyph": {
+        "tint": "6d543b",
+        "textureX": 48
+      },
+      "effects": {
+        "sweeping": 3
+      },
+      "capabilities": {
+        "cut": [
+          1,
+          1
+        ]
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/blade/heavy/crude",
+          "tint": "6d543b"
+        }
+      ]
+    },
+    {
+      "key": "heavy_blade/tungsten",
+      "durability": 460,
+      "integrity": -3,
+      "magicCapacity": 42,
+      "damage": 6.5,
+      "attackSpeed": -0.6,
+      "effects": {
+        "sweeping": 3
+      },
+      "capabilities": {
+        "cut": [
+          1,
+          1
+        ]
+      },
+      "glyph": {
+        "tint": "acccb3"
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/blade/heavy/metal",
+          "tint": "acccb3"
+        }
+      ]
+    },
+    {
+      "key": "heavy_blade/endorium",
+      "durability": 860,
+      "integrity": -3,
+      "magicCapacity": 102,
+      "damage": 8,
+      "attackSpeed": -0.6,
+      "effects": {
+        "sweeping": 3
+      },
+      "capabilities": {
+        "cut": [
+          1,
+          1
+        ]
+      },
+      "glyph": {
+        "tint": "2e7468"
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/blade/heavy/metal",
+          "tint": "2e7468"
+        }
+      ]
+    },
+    {
+      "key": "heavy_blade/end_stone",
+      "durability": 360,
+      "integrity": -2,
+      "magicCapacity": 132,
+      "damage": 5,
+      "attackSpeed": -0.6,
+      "effects": {
+        "sweeping": 3
+      },
+      "capabilities": {
+        "cut": [
+          1,
+          1
+        ]
+      },
+      "glyph": {
+        "tint": "f3f7bb"
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/blade/heavy/metal",
+          "tint": "f3f7bb"
+        }
+      ]
+    }
+  ]
 }

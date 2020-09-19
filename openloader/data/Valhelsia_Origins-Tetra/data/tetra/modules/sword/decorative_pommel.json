@@ -1,44 +1,53 @@
 {
-    "replace": false,
-	"variants": [
-		{ "key": "decorative_pommel/tungsten",
-            "durability": 10,
-            "attackSpeed": -0.5,
-            "glyph": {
-                "tint": "acccb3",
-                "textureX": 14,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/pommel/decorative_pommel/default",
-                "tint": "acccb3"
-            }]
-        },
-		{ "key": "decorative_pommel/endorium",
-            "durability": 22,
-            "attackSpeed": -0.5,
-            "glyph": {
-                "tint": "2e7468",
-                "textureX": 14,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/pommel/decorative_pommel/default",
-                "tint": "2e7468"
-            }]
-        },
-		{ "key": "decorative_pommel/end_stone",
-            "durability": 48,
-            "attackSpeed": -0.5,
-            "glyph": {
-                "tint": "f3f7bb",
-                "textureX": 14,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/pommel/decorative_pommel/default",
-                "tint": "f3f7bb"
-            }]
+  "replace": false,
+  "variants": [
+    {
+      "key": "decorative_pommel/tungsten",
+      "durability": 10,
+      "attackSpeed": -0.5,
+      "glyph": {
+        "tint": "acccb3",
+        "textureX": 14,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/pommel/decorative_pommel/default",
+          "tint": "acccb3"
         }
-	]
+      ]
+    },
+    {
+      "key": "decorative_pommel/endorium",
+      "durability": 22,
+      "attackSpeed": -0.5,
+      "glyph": {
+        "tint": "2e7468",
+        "textureX": 14,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/pommel/decorative_pommel/default",
+          "tint": "2e7468"
+        }
+      ]
+    },
+    {
+      "key": "decorative_pommel/end_stone",
+      "durability": 48,
+      "attackSpeed": -0.5,
+      "glyph": {
+        "tint": "f3f7bb",
+        "textureX": 14,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/pommel/decorative_pommel/default",
+          "tint": "f3f7bb"
+        }
+      ]
+    }
+  ]
 }

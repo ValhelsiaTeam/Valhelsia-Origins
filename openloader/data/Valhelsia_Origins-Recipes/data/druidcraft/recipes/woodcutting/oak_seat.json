@@ -1,7 +1,7 @@
 {
   "type": "druidcraft:woodcutting",
   "ingredient": {
-    "item":"minecraft:oak_planks"
+    "item": "minecraft:oak_planks"
   },
   "result": "decorative_blocks:oak_seat",
   "count": 1

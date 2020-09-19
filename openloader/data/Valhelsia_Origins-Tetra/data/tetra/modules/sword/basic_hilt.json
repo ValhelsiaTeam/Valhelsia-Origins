@@ -1,84 +1,90 @@
 {
-	"replace": false,
-	"variants": [
-		{
-		"key": "basic_hilt/driftwood",
-			"durability": 13,
-			"integrity": 4,
-			"magicCapacity": 132,
-			"attackSpeed": 0.35,
-			"glyph": {
-				"tint": "5d574e",
-				"textureX": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/sword/hilt/basic/default",
-				"tint": "5d574e"
-			}]
-		},
-		{
-		"key": "basic_hilt/river",
-			"durability": 13,
-			"integrity": 4,
-			"magicCapacity": 102,
-			"attackSpeed": 0.55,
-			"glyph": {
-				"tint": "6d543b",
-				"textureX": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/sword/hilt/basic/default",
-				"tint": "6d543b"
-			}]
-		},
-		{
-			"key": "basic_hilt/prismarine",
-			"durability": 250,
-			"integrity": 5,
-			"magicCapacity": 102,
-			"attackSpeed": 0.25,
-			"glyph": {
-				"tint": "prismarine_glyph",
-				"textureX": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/sword/hilt/basic/default",
-				"tint": "prismarine_dark"
-			}]
-		},
-		{
-			"key": "basic_hilt/tungsten",
-			"durability": 36,
-			"integrity": 5,
-			"magicCapacity": 42,
-			"attackSpeed": 0.2,
-			"glyph": {
-				"tint": "acccb3",
-				"textureX": 16
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/sword/hilt/basic/default",
-					"tint": "acccb3"
-				}
-			]
-		},
-		{
-			"key": "basic_hilt/endorium",
-			"durability": 72,
-			"integrity": 7,
-			"magicCapacity": 102,
-			"attackSpeed": 0.35,
-			"glyph": {
-				"tint": "acccb3",
-				"textureX": 16
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/sword/hilt/basic/default",
-					"tint": "2e7468"
-				}
-			]
-		}
-	]
+  "replace": false,
+  "variants": [
+    {
+      "key": "basic_hilt/driftwood",
+      "durability": 13,
+      "integrity": 4,
+      "magicCapacity": 132,
+      "attackSpeed": 0.35,
+      "glyph": {
+        "tint": "5d574e",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/hilt/basic/default",
+          "tint": "5d574e"
+        }
+      ]
+    },
+    {
+      "key": "basic_hilt/river",
+      "durability": 13,
+      "integrity": 4,
+      "magicCapacity": 102,
+      "attackSpeed": 0.55,
+      "glyph": {
+        "tint": "6d543b",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/hilt/basic/default",
+          "tint": "6d543b"
+        }
+      ]
+    },
+    {
+      "key": "basic_hilt/prismarine",
+      "durability": 250,
+      "integrity": 5,
+      "magicCapacity": 102,
+      "attackSpeed": 0.25,
+      "glyph": {
+        "tint": "prismarine_glyph",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/hilt/basic/default",
+          "tint": "prismarine_dark"
+        }
+      ]
+    },
+    {
+      "key": "basic_hilt/tungsten",
+      "durability": 36,
+      "integrity": 5,
+      "magicCapacity": 42,
+      "attackSpeed": 0.2,
+      "glyph": {
+        "tint": "acccb3",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/hilt/basic/default",
+          "tint": "acccb3"
+        }
+      ]
+    },
+    {
+      "key": "basic_hilt/endorium",
+      "durability": 72,
+      "integrity": 7,
+      "magicCapacity": 102,
+      "attackSpeed": 0.35,
+      "glyph": {
+        "tint": "acccb3",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/hilt/basic/default",
+          "tint": "2e7468"
+        }
+      ]
+    }
+  ]
 }

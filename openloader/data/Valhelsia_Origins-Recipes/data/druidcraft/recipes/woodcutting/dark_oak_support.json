@@ -1,7 +1,7 @@
 {
   "type": "druidcraft:woodcutting",
   "ingredient": {
-    "item":"minecraft:dark_oak_planks"
+    "item": "minecraft:dark_oak_planks"
   },
   "result": "decorative_blocks:dark_oak_support",
   "count": 1

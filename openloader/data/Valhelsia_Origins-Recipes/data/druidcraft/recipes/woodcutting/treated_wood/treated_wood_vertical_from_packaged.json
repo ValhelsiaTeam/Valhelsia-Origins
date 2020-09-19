@@ -1,7 +1,7 @@
 {
   "type": "druidcraft:woodcutting",
   "ingredient": {
-    "item":"immersiveengineering:treated_wood_packaged"
+    "item": "immersiveengineering:treated_wood_packaged"
   },
   "result": "immersiveengineering:treated_wood_vertical",
   "count": 1

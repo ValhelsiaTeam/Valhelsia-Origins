@@ -1,11 +1,11 @@
 {
-    "type": "ceramics:kiln",
-    "ingredient": {
-      "item": "druidcraft:wet_mud_bricks"
-    },
-    "result": {
-      "item": "druidcraft:mud_bricks"
-    },
-    "experience": 0.1,
-    "cookingtime": 100
-  }
+  "type": "ceramics:kiln",
+  "ingredient": {
+    "item": "druidcraft:wet_mud_bricks"
+  },
+  "result": {
+    "item": "druidcraft:mud_bricks"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

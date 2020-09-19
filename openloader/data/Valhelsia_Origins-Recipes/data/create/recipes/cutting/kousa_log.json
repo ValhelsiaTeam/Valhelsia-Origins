@@ -1,15 +1,15 @@
 {
-    "type": "create:cutting",
-    "ingredients": [
-    	{
-    		"item": "atmospheric:kousa_log"
-    	}
-    ], 
-	"results": [
-		{
-			"item": "atmospheric:stripped_kousa_log",
-			"count": 1
-		}
-	],
-	"processingTime": 50
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "atmospheric:kousa_log"
+    }
+  ],
+  "results": [
+    {
+      "item": "atmospheric:stripped_kousa_log",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
 }

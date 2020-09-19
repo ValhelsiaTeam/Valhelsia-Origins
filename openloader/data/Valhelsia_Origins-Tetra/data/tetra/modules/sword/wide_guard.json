@@ -1,95 +1,105 @@
 {
-	"replace": false,
-	"variants": [
-		{
-			"key": "wide_guard/driftwood",
-			"durability": 8,
-			"integrity": -1,
-			"attackSpeed": -0.1,
-			"effects": {
-				"armor": 1
-			},
-			"glyph": {
-				"tint": "5d574e",
-				"textureX": 40,
-				"textureY": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/sword/guard/wide_guard/crude",
-				"tint": "5d574e"
-			}]
-		},
-		{
-			"key": "wide_guard/river",
-			"durability": 8,
-			"integrity": -1,
-			"attackSpeed": 0.2,
-			"effects": {
-				"armor": 1
-			},
-			"glyph": {
-				"tint": "6d543b",
-				"textureX": 40,
-				"textureY": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/sword/guard/wide_guard/crude",
-				"tint": "6d543b"
-			}]
-		},
-		{
-            "key": "wide_guard/tungsten",
-            "durability": 52,
-            "integrity": -1,
-            "attackSpeed": -0.3,
-            "effects": {
-                "armor": 2
-            },
-            "glyph": {
-                "tint": "acccb3",
-                "textureX": 40,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/guard/wide_guard/metal",
-                "tint": "acccb3"
-            }]
-        },
-		{
-            "key": "wide_guard/endorium",
-            "durability": 61,
-            "integrity": -3,
-            "attackSpeed": -0.3,
-            "effects": {
-                "armor": 4
-            },
-            "glyph": {
-                "tint": "2e7468",
-                "textureX": 40,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/guard/wide_guard/metal",
-                "tint": "2e7468"
-            }]
-        },
-		{
-            "key": "wide_guard/end_stone",
-            "durability": 25,
-            "integrity": -1,
-            "attackSpeed": -0.4,
-            "effects": {
-                "armor": 2
-            },
-            "glyph": {
-                "tint": "f3f7bb",
-                "textureX": 40,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/sword/guard/wide_guard/crude",
-                "tint": "f3f7bb"
-            }]
+  "replace": false,
+  "variants": [
+    {
+      "key": "wide_guard/driftwood",
+      "durability": 8,
+      "integrity": -1,
+      "attackSpeed": -0.1,
+      "effects": {
+        "armor": 1
+      },
+      "glyph": {
+        "tint": "5d574e",
+        "textureX": 40,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/wide_guard/crude",
+          "tint": "5d574e"
         }
-	]
+      ]
+    },
+    {
+      "key": "wide_guard/river",
+      "durability": 8,
+      "integrity": -1,
+      "attackSpeed": 0.2,
+      "effects": {
+        "armor": 1
+      },
+      "glyph": {
+        "tint": "6d543b",
+        "textureX": 40,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/wide_guard/crude",
+          "tint": "6d543b"
+        }
+      ]
+    },
+    {
+      "key": "wide_guard/tungsten",
+      "durability": 52,
+      "integrity": -1,
+      "attackSpeed": -0.3,
+      "effects": {
+        "armor": 2
+      },
+      "glyph": {
+        "tint": "acccb3",
+        "textureX": 40,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/wide_guard/metal",
+          "tint": "acccb3"
+        }
+      ]
+    },
+    {
+      "key": "wide_guard/endorium",
+      "durability": 61,
+      "integrity": -3,
+      "attackSpeed": -0.3,
+      "effects": {
+        "armor": 4
+      },
+      "glyph": {
+        "tint": "2e7468",
+        "textureX": 40,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/wide_guard/metal",
+          "tint": "2e7468"
+        }
+      ]
+    },
+    {
+      "key": "wide_guard/end_stone",
+      "durability": 25,
+      "integrity": -1,
+      "attackSpeed": -0.4,
+      "effects": {
+        "armor": 2
+      },
+      "glyph": {
+        "tint": "f3f7bb",
+        "textureX": 40,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/guard/wide_guard/crude",
+          "tint": "f3f7bb"
+        }
+      ]
+    }
+  ]
 }

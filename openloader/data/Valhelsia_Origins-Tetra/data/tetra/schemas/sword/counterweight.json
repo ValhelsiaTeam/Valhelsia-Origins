@@ -1,60 +1,60 @@
 {
-	"replace": false,
-	"outcomes": [
-		{
-			"material": {
-				"item": "upgrade_aquatic:driftwood_planks",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"axe": 2
-			},
-			"moduleKey": "sword/counterweight",
-			"moduleVariant": "counterweight/driftwood"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:river_planks",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"axe": 2
-			},
-			"moduleKey": "sword/counterweight",
-			"moduleVariant": "counterweight/river"
-		},
-		{
-			"material": {
-				"item": "endreborn:endorium_ingot",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/counterweight",
-			"moduleVariant": "counterweight/endorium"
-		},
-		{
-			"material": {
-				"item": "endreborn:wolframium_ingot",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/counterweight",
-			"moduleVariant": "counterweight/tungsten"
-		},
-		{
-			"material": {
-				"item": "endreborn:burned_end_stone",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/counterweight",
-			"moduleVariant": "counterweight/end_stone"
-		}
-	]
+  "replace": false,
+  "outcomes": [
+    {
+      "material": {
+        "item": "upgrade_aquatic:driftwood_planks",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "axe": 2
+      },
+      "moduleKey": "sword/counterweight",
+      "moduleVariant": "counterweight/driftwood"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:river_planks",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "axe": 2
+      },
+      "moduleKey": "sword/counterweight",
+      "moduleVariant": "counterweight/river"
+    },
+    {
+      "material": {
+        "item": "endreborn:endorium_ingot",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/counterweight",
+      "moduleVariant": "counterweight/endorium"
+    },
+    {
+      "material": {
+        "item": "endreborn:wolframium_ingot",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/counterweight",
+      "moduleVariant": "counterweight/tungsten"
+    },
+    {
+      "material": {
+        "item": "endreborn:burned_end_stone",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/counterweight",
+      "moduleVariant": "counterweight/end_stone"
+    }
+  ]
 }

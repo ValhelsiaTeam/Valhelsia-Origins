@@ -1,19 +1,21 @@
 {
-	"variants": [
-		{
-			"key": "butt/moonstone",
-			"durability": 676,
-			"magicCapacity": 90,
-			"integrity": -2,
-			"damage": 1,
-			"glyph": {
-				"tint": "7CD4F9",
-				"textureX": 160
-			},
-			"models": [{
-				"location": "tetra:items/module/double/head/butt/moonstone",
-				"tint": "fcfcfc"
-			}]
-		}
-	]
+  "variants": [
+    {
+      "key": "butt/moonstone",
+      "durability": 676,
+      "magicCapacity": 90,
+      "integrity": -2,
+      "damage": 1,
+      "glyph": {
+        "tint": "7CD4F9",
+        "textureX": 160
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/head/butt/moonstone",
+          "tint": "fcfcfc"
+        }
+      ]
+    }
+  ]
 }

@@ -1,309 +1,351 @@
 {
-    "replace": false,
-    "type": "tetra:basic_module",
-    "slots": ["double/binding"],
-    "renderLayer": "higher",
-    "tweakKey": "tetra:double/binding",
-    "variants": [
+  "replace": false,
+  "type": "tetra:basic_module",
+  "slots": [
+    "double/binding"
+  ],
+  "renderLayer": "higher",
+  "tweakKey": "tetra:double/binding",
+  "variants": [
+    {
+      "key": "double_iron_binding",
+      "durability": 55,
+      "integrity": 3,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "iron",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
         {
-            "key": "double_iron_binding",
-            "durability": 55,
-            "integrity": 3,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "iron",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "iron"
-            }]
-        },
-        {
-            "key": "double_gold_binding",
-            "durability": 20,
-            "integrity": 2,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "gold",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "gold"
-            }]
-        },
-        {
-            "key": "double_copper_binding",
-            "durability": 40,
-            "integrity": 3,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "copper",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "copper"
-            }]
-        },
-        {
-            "key": "double_brass_binding",
-            "durability": 69,
-            "integrity": 3,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "ebd999",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "ebd999"
-            }]
-        },
-        {
-            "key": "double_tin_binding",
-            "durability": 18,
-            "integrity": 2,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "tin",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "tin"
-            }]
-        },
-        {
-            "key": "double_silver_binding",
-            "durability": 22,
-            "integrity": 3,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "silver",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "silver"
-            }]
-        },
-        {
-            "key": "double_nickel_binding",
-            "durability": 78,
-            "integrity": 4,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "nickel",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "nickel"
-            }]
-        },
-        {
-            "key": "double_lead_binding",
-            "durability": 34,
-            "integrity": 2,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "lead",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "lead"
-            }]
-        },
-        {
-            "key": "double_bronzebinding",
-            "durability": 98,
-            "integrity": 4,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "bronze",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "bronze"
-            }]
-        },
-        {
-            "key": "double_electrum_binding",
-            "durability": 28,
-            "integrity": 3,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "electrum",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "electrum"
-            }]
-        },
-        {
-            "key": "double_steel_binding",
-            "durability": 148,
-            "integrity": 5,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "steel",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/metal",
-                "tint": "steel"
-            }]
-        },
-        {
-            "key": "double_iron_plate_binding",
-            "durability": 110,
-            "integrity": 4,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "iron",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "iron"
-            }]
-        },
-        {
-            "key": "double_gold_plate_binding",
-            "durability": 40,
-            "integrity": 3,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "gold",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "gold"
-            }]
-        },
-        {
-            "key": "double_copper_plate_binding",
-            "durability": 80,
-            "integrity": 4,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "copper",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "copper"
-            }]
-        },
-        {
-            "key": "double_brass_plate_binding",
-            "durability": 69,
-            "integrity": 4,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "ebd999",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "ebd999"
-            }]
-        },
-        {
-            "key": "double_silver_plate_binding",
-            "durability": 44,
-            "integrity": 4,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "silver",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "silver"
-            }]
-        },
-        {
-            "key": "double_nickel_plate_binding",
-            "durability": 156,
-            "integrity": 5,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "nickel",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "nickel"
-            }]
-        },
-        {
-            "key": "double_lead_plate_binding",
-            "durability": 68,
-            "integrity": 3,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "lead",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "lead"
-            }]
-        },
-        {
-            "key": "double_electrum_plate_binding",
-            "durability": 56,
-            "integrity": 4,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "electrum",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "electrum"
-            }]
-        },
-        {
-            "key": "double_steel_plate_binding",
-            "durability": 296,
-            "integrity": 6,
-            "attackSpeed": -0.2,
-            "glyph": {
-                "tint": "steel",
-                "textureX": 88,
-                "textureY": 16
-            },
-            "models": [{
-                "location": "tetra:items/module/double/binding/binding/plate",
-                "tint": "steel"
-            }]
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "iron"
         }
-    ]
+      ]
+    },
+    {
+      "key": "double_gold_binding",
+      "durability": 20,
+      "integrity": 2,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "gold",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "gold"
+        }
+      ]
+    },
+    {
+      "key": "double_copper_binding",
+      "durability": 40,
+      "integrity": 3,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "copper",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "copper"
+        }
+      ]
+    },
+    {
+      "key": "double_brass_binding",
+      "durability": 69,
+      "integrity": 3,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "ebd999",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "ebd999"
+        }
+      ]
+    },
+    {
+      "key": "double_tin_binding",
+      "durability": 18,
+      "integrity": 2,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "tin",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "tin"
+        }
+      ]
+    },
+    {
+      "key": "double_silver_binding",
+      "durability": 22,
+      "integrity": 3,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "silver",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "silver"
+        }
+      ]
+    },
+    {
+      "key": "double_nickel_binding",
+      "durability": 78,
+      "integrity": 4,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "nickel",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "nickel"
+        }
+      ]
+    },
+    {
+      "key": "double_lead_binding",
+      "durability": 34,
+      "integrity": 2,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "lead",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "lead"
+        }
+      ]
+    },
+    {
+      "key": "double_bronzebinding",
+      "durability": 98,
+      "integrity": 4,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "bronze",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "bronze"
+        }
+      ]
+    },
+    {
+      "key": "double_electrum_binding",
+      "durability": 28,
+      "integrity": 3,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "electrum",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "electrum"
+        }
+      ]
+    },
+    {
+      "key": "double_steel_binding",
+      "durability": 148,
+      "integrity": 5,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "steel",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/metal",
+          "tint": "steel"
+        }
+      ]
+    },
+    {
+      "key": "double_iron_plate_binding",
+      "durability": 110,
+      "integrity": 4,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "iron",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "iron"
+        }
+      ]
+    },
+    {
+      "key": "double_gold_plate_binding",
+      "durability": 40,
+      "integrity": 3,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "gold",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "gold"
+        }
+      ]
+    },
+    {
+      "key": "double_copper_plate_binding",
+      "durability": 80,
+      "integrity": 4,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "copper",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "copper"
+        }
+      ]
+    },
+    {
+      "key": "double_brass_plate_binding",
+      "durability": 69,
+      "integrity": 4,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "ebd999",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "ebd999"
+        }
+      ]
+    },
+    {
+      "key": "double_silver_plate_binding",
+      "durability": 44,
+      "integrity": 4,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "silver",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "silver"
+        }
+      ]
+    },
+    {
+      "key": "double_nickel_plate_binding",
+      "durability": 156,
+      "integrity": 5,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "nickel",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "nickel"
+        }
+      ]
+    },
+    {
+      "key": "double_lead_plate_binding",
+      "durability": 68,
+      "integrity": 3,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "lead",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "lead"
+        }
+      ]
+    },
+    {
+      "key": "double_electrum_plate_binding",
+      "durability": 56,
+      "integrity": 4,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "electrum",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "electrum"
+        }
+      ]
+    },
+    {
+      "key": "double_steel_plate_binding",
+      "durability": 296,
+      "integrity": 6,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "steel",
+        "textureX": 88,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/binding/plate",
+          "tint": "steel"
+        }
+      ]
+    }
+  ]
 }

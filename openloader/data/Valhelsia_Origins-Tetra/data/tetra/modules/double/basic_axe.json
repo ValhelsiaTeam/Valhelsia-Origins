@@ -1,24 +1,31 @@
 {
-	"variants": [{
-		"key": "basic_axe/moonstone",
-		"durability": 1224,
-		"integrity": -3,
-		"magicCapacity": 90,
-		"damage": 11,
-		"attackSpeed": -0.8,
-		"glyph": {
-			"tint": "7CD4F9",
-			"textureX": 144
-		},
-		"models": [{
-			"location": "tetra:items/module/double/head/basic_axe/moonstone",
-			"tint": "fcfcfc"
-		}],
-		"capabilities": {
-			"axe": [5,11.25]
-		},
-		"effects": {
-			"stripping": 1
-		}
-	}]
+  "variants": [
+    {
+      "key": "basic_axe/moonstone",
+      "durability": 1224,
+      "integrity": -3,
+      "magicCapacity": 90,
+      "damage": 11,
+      "attackSpeed": -0.8,
+      "glyph": {
+        "tint": "7CD4F9",
+        "textureX": 144
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/head/basic_axe/moonstone",
+          "tint": "fcfcfc"
+        }
+      ],
+      "capabilities": {
+        "axe": [
+          5,
+          11.25
+        ]
+      },
+      "effects": {
+        "stripping": 1
+      }
+    }
+  ]
 }

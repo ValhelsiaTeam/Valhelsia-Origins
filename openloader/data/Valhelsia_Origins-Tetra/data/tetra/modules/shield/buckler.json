@@ -1,72 +1,72 @@
 {
-	"improvements": [
-		"tetra:shield/plate/buckler/studs_bhg",
-		"tetra:shield/plate/buckler/trim_bhg"
-	],
-	"variants": [
-		{
-			"key": "buckler/driftwood",
-			"durability": 170,
-			"integrity": -1,
-			"magicCapacpity": 132,
-			"effects": {
-				"toughness": 4
-			},
-			"glyph": {
-				"tint": "5d574e",
-				"textureX": 48,
-				"textureY": 48
-			},
-			"models": [
-				{
-					"type": "shield_buckler",
-					"location": "tetra:items/module/shield/plate/buckler/wooden",
-					"tint": "5d574e"
-				}
-			]
-		},
-		{
-			"key": "buckler/river",
-			"durability": 170,
-			"integrity": -1,
-			"magicCapacpity": 102,
-			"effects": {
-				"toughness": 4
-			},
-			"glyph": {
-				"tint": "6d543b",
-				"textureX": 48,
-				"textureY": 48
-			},
-			"models": [
-				{
-					"type": "shield_buckler",
-					"location": "tetra:items/module/shield/plate/buckler/wooden",
-					"tint": "6d543b"
-				}
-			]
-		},
-		{
-			"key": "buckler/griefer",
-			"durability": 465,
-			"integrity": -2,
-			"magicCapacity": 104,
-			"attackSpeed": 3,
-            "damage": 3,
-			"effects": {
-				"toughness": 6
-			},
-			"glyph": {
-				"tint": "537036",
-				"textureX": 48,
-				"textureY": 48
-			},
-			"models": [
-				{
-					"type": "shield_buckler",
-					"location": "tetra:items/module/shield/plate/buckler/griefer"
-				}
-			]
-		}
-	]
+  "improvements": [
+    "tetra:shield/plate/buckler/studs_bhg",
+    "tetra:shield/plate/buckler/trim_bhg"
+  ],
+  "variants": [
+    {
+      "key": "buckler/driftwood",
+      "durability": 170,
+      "integrity": -1,
+      "magicCapacpity": 132,
+      "effects": {
+        "toughness": 4
+      },
+      "glyph": {
+        "tint": "5d574e",
+        "textureX": 48,
+        "textureY": 48
+      },
+      "models": [
+        {
+          "type": "shield_buckler",
+          "location": "tetra:items/module/shield/plate/buckler/wooden",
+          "tint": "5d574e"
+        }
+      ]
+    },
+    {
+      "key": "buckler/river",
+      "durability": 170,
+      "integrity": -1,
+      "magicCapacpity": 102,
+      "effects": {
+        "toughness": 4
+      },
+      "glyph": {
+        "tint": "6d543b",
+        "textureX": 48,
+        "textureY": 48
+      },
+      "models": [
+        {
+          "type": "shield_buckler",
+          "location": "tetra:items/module/shield/plate/buckler/wooden",
+          "tint": "6d543b"
+        }
+      ]
+    },
+    {
+      "key": "buckler/griefer",
+      "durability": 465,
+      "integrity": -2,
+      "magicCapacity": 104,
+      "attackSpeed": 3,
+      "damage": 3,
+      "effects": {
+        "toughness": 6
+      },
+      "glyph": {
+        "tint": "537036",
+        "textureX": 48,
+        "textureY": 48
+      },
+      "models": [
+        {
+          "type": "shield_buckler",
+          "location": "tetra:items/module/shield/plate/buckler/griefer"
+        }
+      ]
+    }
+  ]
 }

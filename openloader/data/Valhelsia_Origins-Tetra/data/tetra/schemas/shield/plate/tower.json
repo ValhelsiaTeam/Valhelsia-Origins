@@ -1,35 +1,35 @@
 {
-	"outcomes": [
-		{
-			"material": {
-				"item": "upgrade_aquatic:driftwood_planks"
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "shield/tower",
-			"moduleVariant": "tower/driftwood"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:river_planks"
-			},
-			"requiredCapabilities": {
-				"axe": 1
-			},
-			"moduleKey": "shield/tower",
-			"moduleVariant": "tower/river"
-		},
-		{
-			"material": {
-				"item": "savageandravage:blast_proof_plating",
-				"count": 2
-			},
-			"requiredCapabilities": {
-				"hammer": 3
-			},
-			"moduleKey": "shield/tower",
-			"moduleVariant": "tower/griefer"
-		}
-	]
+  "outcomes": [
+    {
+      "material": {
+        "item": "upgrade_aquatic:driftwood_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/tower",
+      "moduleVariant": "tower/driftwood"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:river_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/tower",
+      "moduleVariant": "tower/river"
+    },
+    {
+      "material": {
+        "item": "savageandravage:blast_proof_plating",
+        "count": 2
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "shield/tower",
+      "moduleVariant": "tower/griefer"
+    }
+  ]
 }

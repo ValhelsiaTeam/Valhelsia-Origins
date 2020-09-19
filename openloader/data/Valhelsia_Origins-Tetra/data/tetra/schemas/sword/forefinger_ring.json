@@ -1,60 +1,60 @@
 {
-	"replace": false,
-	"outcomes": [
-		{
-			"material": {
-				"item": "upgrade_aquatic:driftwood_planks",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"axe": 2
-			},
-			"moduleKey": "sword/forefinger_ring",
-			"moduleVariant": "forefinger_ring/driftwood"
-		},
-		{
-			"material": {
-				"item": "upgrade_aquatic:river_planks",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"axe": 2
-			},
-			"moduleKey": "sword/forefinger_ring",
-			"moduleVariant": "forefinger_ring/river"
-		},
-		{
-			"material": {
-				"item": "endreborn:endorium_ingot",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/forefinger_ring",
-			"moduleVariant": "forefinger_ring/endorium"
-		},
-		{
-			"material": {
-				"item": "endreborn:wolframium_ingot",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/forefinger_ring",
-			"moduleVariant": "forefinger_ring/tungsten"
-		},
-		{
-			"material": {
-				"item": "endreborn:burned_end_stone",
-				"count": 1
-			},
-			"requiredCapabilities": {
-				"hammer": 2
-			},
-			"moduleKey": "sword/forefinger_ring",
-			"moduleVariant": "forefinger_ring/end_stone"
-		}
-	]
+  "replace": false,
+  "outcomes": [
+    {
+      "material": {
+        "item": "upgrade_aquatic:driftwood_planks",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "axe": 2
+      },
+      "moduleKey": "sword/forefinger_ring",
+      "moduleVariant": "forefinger_ring/driftwood"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:river_planks",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "axe": 2
+      },
+      "moduleKey": "sword/forefinger_ring",
+      "moduleVariant": "forefinger_ring/river"
+    },
+    {
+      "material": {
+        "item": "endreborn:endorium_ingot",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/forefinger_ring",
+      "moduleVariant": "forefinger_ring/endorium"
+    },
+    {
+      "material": {
+        "item": "endreborn:wolframium_ingot",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/forefinger_ring",
+      "moduleVariant": "forefinger_ring/tungsten"
+    },
+    {
+      "material": {
+        "item": "endreborn:burned_end_stone",
+        "count": 1
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "sword/forefinger_ring",
+      "moduleVariant": "forefinger_ring/end_stone"
+    }
+  ]
 }

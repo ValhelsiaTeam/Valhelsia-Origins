@@ -1,11 +1,11 @@
 {
-    "type": "ceramics:kiln",
-    "ingredient": {
-      "item": "mysticalworld:wet_mud_brick"
-    },
-    "result": {
-      "item": "mysticalworld:mud_brick"
-    },
-    "experience": 0.1,
-    "cookingtime": 100
-  }
+  "type": "ceramics:kiln",
+  "ingredient": {
+    "item": "mysticalworld:wet_mud_brick"
+  },
+  "result": {
+    "item": "mysticalworld:mud_brick"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

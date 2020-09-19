@@ -1,79 +1,79 @@
 {
-	"improvements": [
-		"tetra:shield/plate/heater/studs_bhg",
-		"tetra:shield/plate/heater/trim_bhg"
-	],
-	"variants": [
-		{
-			"key": "heater/driftwood",
-			"durability": 204,
-			"integrity": -1,
-			"magicCapacity": 132,
-			"effects": {
-				"blocking": [
-					2,
-					4
-				]
-			},
-			"glyph": {
-				"tint": "5d574e",
-				"textureX": 32,
-				"textureY": 48
-			},
-			"models": [
-				{
-					"type": "shield_heater",
-					"location": "tetra:items/module/shield/plate/heater/wooden",
-					"tint": "5d574e"
-				}
-			]
-		},
-		{
-			"key": "heater/river",
-			"durability": 204,
-			"integrity": -1,
-			"magicCapacity": 102,
-			"effects": {
-				"blocking": [
-					2,
-					4
-				]
-			},
-			"glyph": {
-				"tint": "6d543b",
-				"textureX": 32,
-				"textureY": 48
-			},
-			"models": [
-				{
-					"type": "shield_heater",
-					"location": "tetra:items/module/shield/plate/heater/wooden",
-					"tint": "6d543b"
-				}
-			]
-		},
-		{
-			"key": "heater/griefer",
-			"durability": 558,
-			"integrity": -2,
-			"magicCapacity": 104,
-			"attackSpeed": 5,
-            "damage": 6,
-			"effects": {
-				"blocking": 2,
-				"toughness": 2
-			},
-			"glyph": {
-				"tint": "537036",
-				"textureX": 32,
-				"textureY": 48
-			},
-			"models": [
-				{
-					"type": "shield_heater",
-					"location": "tetra:items/module/shield/plate/heater/griefer"
-				}
-			]
-		}
-	]
+  "improvements": [
+    "tetra:shield/plate/heater/studs_bhg",
+    "tetra:shield/plate/heater/trim_bhg"
+  ],
+  "variants": [
+    {
+      "key": "heater/driftwood",
+      "durability": 204,
+      "integrity": -1,
+      "magicCapacity": 132,
+      "effects": {
+        "blocking": [
+          2,
+          4
+        ]
+      },
+      "glyph": {
+        "tint": "5d574e",
+        "textureX": 32,
+        "textureY": 48
+      },
+      "models": [
+        {
+          "type": "shield_heater",
+          "location": "tetra:items/module/shield/plate/heater/wooden",
+          "tint": "5d574e"
+        }
+      ]
+    },
+    {
+      "key": "heater/river",
+      "durability": 204,
+      "integrity": -1,
+      "magicCapacity": 102,
+      "effects": {
+        "blocking": [
+          2,
+          4
+        ]
+      },
+      "glyph": {
+        "tint": "6d543b",
+        "textureX": 32,
+        "textureY": 48
+      },
+      "models": [
+        {
+          "type": "shield_heater",
+          "location": "tetra:items/module/shield/plate/heater/wooden",
+          "tint": "6d543b"
+        }
+      ]
+    },
+    {
+      "key": "heater/griefer",
+      "durability": 558,
+      "integrity": -2,
+      "magicCapacity": 104,
+      "attackSpeed": 5,
+      "damage": 6,
+      "effects": {
+        "blocking": 2,
+        "toughness": 2
+      },
+      "glyph": {
+        "tint": "537036",
+        "textureX": 32,
+        "textureY": 48
+      },
+      "models": [
+        {
+          "type": "shield_heater",
+          "location": "tetra:items/module/shield/plate/heater/griefer"
+        }
+      ]
+    }
+  ]
 }

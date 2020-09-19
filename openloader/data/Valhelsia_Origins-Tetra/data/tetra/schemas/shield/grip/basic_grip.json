@@ -1,234 +1,234 @@
-{	
-    "replace": false,
-    "slots": [
-        "shield/grip"
-    ],
-    "materialSlotCount": 1,
-    "displayType": "major",
-    "glyph": {
-        "textureX": 16,
-        "textureY": 48
+{
+  "replace": false,
+  "slots": [
+    "shield/grip"
+  ],
+  "materialSlotCount": 1,
+  "displayType": "major",
+  "glyph": {
+    "textureX": 16,
+    "textureY": 48
+  },
+  "outcomes": [
+    {
+      "material": {
+        "item": "minecraft:stick"
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_stick_grip"
     },
-    "outcomes": [
-        {
-            "material": {
-                "item": "minecraft:stick"
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_stick_grip"
-        },
-        {
-            "material": {
-                "item": "minecraft:spruce_planks"
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_spruce_grip"
-        },
-        {
-            "material": {
-                "item": "minecraft:birch_planks"
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_birch_grip"
-        },
-        {
-            "material": {
-                "item": "minecraft:jungle_planks"
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_jungle_grip"
-        },
-        {
-            "material": {
-                "item": "minecraft:acacia_planks"
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_acacia_grip"
-        },
-        {
-            "material": {
-                "item": "minecraft:dark_oak_planks"
-            },
-            "requiredCapabilities": {
-                "axe": 1
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_dark_oak_grip"
-        },
-        {
-            "material": {
-                "item": "minecraft:bone"
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_bone_grip"
-        },
-        {
-            "material": {
-                "item": "minecraft:blaze_rod"
-            },
-            "requiredCapabilities": {
-                "hammer": 4
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_blaze_rod_grip",
-			"improvements": {
-                "basic_handle/blazing": 0
-			}
-        },
-        {
-            "material": {
-                "item": "minecraft:end_rod"
-            },
-            "requiredCapabilities": {
-                "hammer": 4
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_end_rod_grip",
-            "improvements": {
-                "basic_handle/ender_reverb": 0
-            }
-        },
-        {
-            "material": {
-                "item": "tetra:forged_beam"
-            },
-            "requiredCapabilities": {
-                "hammer": 4
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_forged_beam_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/copper"
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_copper_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/tin"
-            },
-            "requiredCapabilities": {
-                "hammer": 1
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_tin_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/silver"
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_silver_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/nickel"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_nickel_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/lead"
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_lead_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/bronze"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_bronze_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/electrum"
-            },
-            "requiredCapabilities": {
-                "hammer": 2
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_electrum_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:ingots/steel"
-            },
-            "requiredCapabilities": {
-                "hammer": 3
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_steel_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:planks/maple"
-            },
-            "requiredCapabilities": {
-                "axe": 2
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_maple_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:planks/cherry"
-            },
-            "requiredCapabilities": {
-                "axe": 3
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_cherry_grip"
-        },
-        {
-            "material": {
-                "tag": "forge:planks/baobab"
-            },
-            "requiredCapabilities": {
-                "axe": 3
-            },
-            "moduleKey": "shield/basic_grip",
-            "moduleVariant": "basic_baobab_grip"
-        },
-		{
-			"material": {
-				"item": "upgrade_aquatic:prismarine_rod"
-			},
-			"requiredCapabilities": {
-				"hammer": 4
-			},
-			"moduleKey": "shield/basic_grip",
-			"moduleVariant": "basic_grip/prismarine"
-		}
-    ]
+    {
+      "material": {
+        "item": "minecraft:spruce_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_spruce_grip"
+    },
+    {
+      "material": {
+        "item": "minecraft:birch_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_birch_grip"
+    },
+    {
+      "material": {
+        "item": "minecraft:jungle_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_jungle_grip"
+    },
+    {
+      "material": {
+        "item": "minecraft:acacia_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_acacia_grip"
+    },
+    {
+      "material": {
+        "item": "minecraft:dark_oak_planks"
+      },
+      "requiredCapabilities": {
+        "axe": 1
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_dark_oak_grip"
+    },
+    {
+      "material": {
+        "item": "minecraft:bone"
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_bone_grip"
+    },
+    {
+      "material": {
+        "item": "minecraft:blaze_rod"
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_blaze_rod_grip",
+      "improvements": {
+        "basic_handle/blazing": 0
+      }
+    },
+    {
+      "material": {
+        "item": "minecraft:end_rod"
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_end_rod_grip",
+      "improvements": {
+        "basic_handle/ender_reverb": 0
+      }
+    },
+    {
+      "material": {
+        "item": "tetra:forged_beam"
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_forged_beam_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/copper"
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_copper_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/tin"
+      },
+      "requiredCapabilities": {
+        "hammer": 1
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_tin_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/silver"
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_silver_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/nickel"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_nickel_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/lead"
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_lead_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/bronze"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_bronze_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/electrum"
+      },
+      "requiredCapabilities": {
+        "hammer": 2
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_electrum_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:ingots/steel"
+      },
+      "requiredCapabilities": {
+        "hammer": 3
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_steel_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:planks/maple"
+      },
+      "requiredCapabilities": {
+        "axe": 2
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_maple_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:planks/cherry"
+      },
+      "requiredCapabilities": {
+        "axe": 3
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_cherry_grip"
+    },
+    {
+      "material": {
+        "tag": "forge:planks/baobab"
+      },
+      "requiredCapabilities": {
+        "axe": 3
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_baobab_grip"
+    },
+    {
+      "material": {
+        "item": "upgrade_aquatic:prismarine_rod"
+      },
+      "requiredCapabilities": {
+        "hammer": 4
+      },
+      "moduleKey": "shield/basic_grip",
+      "moduleVariant": "basic_grip/prismarine"
+    }
+  ]
 }

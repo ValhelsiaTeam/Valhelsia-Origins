@@ -1,15 +1,15 @@
 {
-    "type": "create:cutting",
-    "ingredients": [
-    	{
-    		"item": "atmospheric:rosewood"
-    	}
-    ], 
-	"results": [
-		{
-			"item": "atmospheric:stripped_rosewood",
-			"count": 1
-		}
-	],
-	"processingTime": 50
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "atmospheric:rosewood"
+    }
+  ],
+  "results": [
+    {
+      "item": "atmospheric:stripped_rosewood",
+      "count": 1
+    }
+  ],
+  "processingTime": 50
 }

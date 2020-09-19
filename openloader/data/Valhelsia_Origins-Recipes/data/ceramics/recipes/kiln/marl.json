@@ -1,11 +1,11 @@
 {
-    "type": "ceramics:kiln",
-    "ingredient": {
-      "item": "atum:marl"
-    },
-    "result": {
-      "item": "atum:ceramic_white"
-    },
-    "experience": 0.1,
-    "cookingtime": 100
-  }
+  "type": "ceramics:kiln",
+  "ingredient": {
+    "item": "atum:marl"
+  },
+  "result": {
+    "item": "atum:ceramic_white"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

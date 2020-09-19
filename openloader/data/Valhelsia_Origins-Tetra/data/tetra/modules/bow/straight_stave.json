@@ -1,72 +1,72 @@
 {
-	"variants": [
-		{
-			"key": "straight_stave/driftwood",
-			"integrity": -2,
-			"durability": 146,
-			"magicCapacity": 132,
-			"damage": 9,
-			"attackSpeed": 1.05,
-			"glyph": {
-				"tint": "5d574e",
-				"textureX": 128,
-				"textureY": 32
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/bow/stave/straight/crude",
-					"tint": "5d574e"
-				},
-				{
-					"type": "draw_0",
-					"location": "tetra:items/module/bow/stave/straight/crude",
-					"tint": "5d574e"
-				},
-				{
-					"type": "draw_1",
-					"location": "tetra:items/module/bow/stave/straight/crude_1",
-					"tint": "5d574e"
-				},
-				{
-					"type": "draw_2",
-					"location": "tetra:items/module/bow/stave/straight/crude_1",
-					"tint": "5d574e"
-				}
-			]
-		},
-		{
-			"key": "straight_stave/river",
-			"integrity": -2,
-			"durability": 146,
-			"magicCapacity": 102,
-			"damage": 9,
-			"attackSpeed": 1.25,
-			"glyph": {
-				"tint": "6d543b",
-				"textureX": 128,
-				"textureY": 32
-			},
-			"models": [
-				{
-					"location": "tetra:items/module/bow/stave/straight/crude",
-					"tint": "6d543b"
-				},
-				{
-					"type": "draw_0",
-					"location": "tetra:items/module/bow/stave/straight/crude",
-					"tint": "6d543b"
-				},
-				{
-					"type": "draw_1",
-					"location": "tetra:items/module/bow/stave/straight/crude_1",
-					"tint": "6d543b"
-				},
-				{
-					"type": "draw_2",
-					"location": "tetra:items/module/bow/stave/straight/crude_1",
-					"tint": "6d543b"
-				}
-			]
-		}
-	]
+  "variants": [
+    {
+      "key": "straight_stave/driftwood",
+      "integrity": -2,
+      "durability": 146,
+      "magicCapacity": 132,
+      "damage": 9,
+      "attackSpeed": 1.05,
+      "glyph": {
+        "tint": "5d574e",
+        "textureX": 128,
+        "textureY": 32
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/bow/stave/straight/crude",
+          "tint": "5d574e"
+        },
+        {
+          "type": "draw_0",
+          "location": "tetra:items/module/bow/stave/straight/crude",
+          "tint": "5d574e"
+        },
+        {
+          "type": "draw_1",
+          "location": "tetra:items/module/bow/stave/straight/crude_1",
+          "tint": "5d574e"
+        },
+        {
+          "type": "draw_2",
+          "location": "tetra:items/module/bow/stave/straight/crude_1",
+          "tint": "5d574e"
+        }
+      ]
+    },
+    {
+      "key": "straight_stave/river",
+      "integrity": -2,
+      "durability": 146,
+      "magicCapacity": 102,
+      "damage": 9,
+      "attackSpeed": 1.25,
+      "glyph": {
+        "tint": "6d543b",
+        "textureX": 128,
+        "textureY": 32
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/bow/stave/straight/crude",
+          "tint": "6d543b"
+        },
+        {
+          "type": "draw_0",
+          "location": "tetra:items/module/bow/stave/straight/crude",
+          "tint": "6d543b"
+        },
+        {
+          "type": "draw_1",
+          "location": "tetra:items/module/bow/stave/straight/crude_1",
+          "tint": "6d543b"
+        },
+        {
+          "type": "draw_2",
+          "location": "tetra:items/module/bow/stave/straight/crude_1",
+          "tint": "6d543b"
+        }
+      ]
+    }
+  ]
 }

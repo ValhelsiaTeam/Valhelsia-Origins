@@ -1,7 +1,7 @@
 {
   "type": "druidcraft:woodcutting",
   "ingredient": {
-    "tag":"minecraft:jungle_logs"
+    "tag": "minecraft:jungle_logs"
   },
   "result": "decorative_blocks:jungle_beam",
   "count": 1

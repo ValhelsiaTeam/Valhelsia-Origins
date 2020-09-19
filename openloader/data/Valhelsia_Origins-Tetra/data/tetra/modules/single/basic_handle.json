@@ -1,49 +1,55 @@
 {
-	"variants": [
-		{
-			"key": "basic_handle/driftwood",
-			"durability": 24,
-			"integrity": 4,
-			"magicCapacity": 132,
-			"attackSpeed": -0.2,
-			"glyph": {
-				"tint": "5d574e",
-				"textureX": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/single/handle/basic/default",
-				"tint": "5d574e"
-			}]
-		},
-		{
-			"key": "basic_handle/river",
-			"durability": 24,
-			"integrity": 4,
-			"magicCapacity": 102,
-			"attackSpeed": 0.1,
-			"glyph": {
-				"tint": "6d543b",
-				"textureX": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/single/handle/basic/default",
-				"tint": "6d543b"
-			}]
-		},
-		{
-			"key": "basic_handle/prismarine_rod",
-			"durability": 160,
-			"integrity": 3,
-			"magicCapacity": 102,
-			"attackSpeed": -0.2,
-			"glyph": {
-				"tint": "prismarine_glyph",
-				"textureX": 16
-			},
-			"models": [{
-				"location": "tetra:items/module/double/handle/basic/default",
-				"tint": "prismarine_dark"
-			}]
-		}
-	]
+  "variants": [
+    {
+      "key": "basic_handle/driftwood",
+      "durability": 24,
+      "integrity": 4,
+      "magicCapacity": 132,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "5d574e",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/single/handle/basic/default",
+          "tint": "5d574e"
+        }
+      ]
+    },
+    {
+      "key": "basic_handle/river",
+      "durability": 24,
+      "integrity": 4,
+      "magicCapacity": 102,
+      "attackSpeed": 0.1,
+      "glyph": {
+        "tint": "6d543b",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/single/handle/basic/default",
+          "tint": "6d543b"
+        }
+      ]
+    },
+    {
+      "key": "basic_handle/prismarine_rod",
+      "durability": 160,
+      "integrity": 3,
+      "magicCapacity": 102,
+      "attackSpeed": -0.2,
+      "glyph": {
+        "tint": "prismarine_glyph",
+        "textureX": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/handle/basic/default",
+          "tint": "prismarine_dark"
+        }
+      ]
+    }
+  ]
 }

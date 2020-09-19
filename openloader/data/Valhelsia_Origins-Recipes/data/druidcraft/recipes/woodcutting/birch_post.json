@@ -1,7 +1,7 @@
 {
   "type": "druidcraft:woodcutting",
   "ingredient": {
-    "item":"minecraft:birch_log"
+    "item": "minecraft:birch_log"
   },
   "result": "valhelsia_structures:birch_post",
   "count": 2
