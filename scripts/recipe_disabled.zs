@@ -36,3 +36,6 @@ import crafttweaker.api.item.IIngredient;
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_black>);
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_brown>);
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_red>);
+
+// Ceramics (use Kiln instead)
+<recipetype:smelting>.removeRecipe(<item:ceramics:dark_bricks>);
