@@ -5,6 +5,69 @@
 
 
 ### Mods added:
++ BlockCarpentry
++ Farmer's Delight
++ Health Overlay
++ Macaw's Trapdoors
++ Placeable Items
++ SimpleDiscordRichPresence
+
+### Mods removed:
+- None
+
+### Updated:
+- Archer's Paradox 0.7.0b
+- Astral Sorcery 1.15.2-1.12.9
+- Atum 2 1.15.2-2.1.6
+- Better Mineshafts Forge-1.15.2-1.3.1
+- Clumps 5.0.2.6
+- CoFH Core 0.7.0b
+- CraftTweaker 6.0.0.44
+- DoubleSlabs 2.11.7
+- Ensorcellation 0.7.0b
+- Engineer's Decor 1.1.3
+- Fairy Lights 3.0.10
+- Immersive Engineering 1.15.2-4.0.0-119
+- JEI 6.0.3.15
+- JAOPCA 3.2.0.15
+- Mystical World 2.1.2
+- PackMenu 1.2.8
+- Psi r1.2-84
+- Structurize 0.13.64
+- Xaero's Minimap v20.22.0 for Forge 1.15.2
+- Xaero's World Map v1.10.4 for Forge 1.15.2
+- Xerca's Music Maker Mod 3.0
+- Xerca's Joy of Painting 3.3
+
+### Changes:
+- Fixed conflict with Dark Bricks and Cracked Bricks. Dark Bricks are now made in the Ceramics Kiln only.
+- Disabled Displacement Enchant (prevents a crash involving Endermites and Silverfish).
+- Added two new paintings (bee and creeper).
+- Added Farmer's Delight, Mystical World, Swamp Expansion, Forbidden and Arcanus seeds to Garden Cloche.
+- Added several recipes from Valhelsia 2, where appropriate.
+- Add additional loot to Treasure Pots.
+- Add Edelwood Log to Edelwood Planks recipe to Create Sawing.
+- Blacklist Curios Sample Items from JEI.
+- Make End: Reborn Quartz usable.
+- Add additional use for Autumnity Snail Slime.
+- Allow Druidcraft wood to work with tree-cutting machines.
+- Add two methods to convert River Wood to Driftwood (Botania Alchemy + Create Washing).
+- Add some missing tags to Create glass panes.
+- Adjust Champions Affixes to prevent some issues.
+- Added Botania Alchemy recipes to obtain Kousa and Aspen saplings.
+- Added Botania Alchemy recipe to convert darkwood into grimwood.
+- Add conversion between Astral Sorcery and Quark marble via the Stonecutter.
+- Disable Endermini spawning.
+- Change Astral Sorcery sky rendering to allow shader support by default.
+- Disable Totem of Shielding (issues when Indestructible)
+
+# Changelog 1.1.0
+
+![100% center](https://zupimages.net/up/20/17/mfyp.png)
+**Forge 31.2.36**
+
+
+### Mods added:
 + Astral Sorcery
 + Champions
 + Chicken Chunks
