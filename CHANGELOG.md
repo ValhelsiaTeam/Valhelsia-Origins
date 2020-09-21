@@ -1,8 +1,7 @@
-# Changelog 1.1.0
+# Changelog 1.1.1
 
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
-**Forge 31.2.36**
-
+**Forge 31.2.41**
 
 ### Mods added:
 + BlockCarpentry
