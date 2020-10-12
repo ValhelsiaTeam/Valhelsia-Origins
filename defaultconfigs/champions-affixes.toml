@@ -9,7 +9,7 @@
 
 [[affixes]]
 	identifier = "arctic"
-	mobList = []
+	mobList = [minecraft:enderman]
 	mobPermission = "BLACKLIST"
 	minTier = 1
 	enabled = true
@@ -23,14 +23,14 @@
 
 [[affixes]]
 	identifier = "desecrating"
-	mobList = []
+	mobList = [minecraft:enderman]
 	mobPermission = "BLACKLIST"
 	minTier = 1
 	enabled = true
 
 [[affixes]]
 	identifier = "enkindling"
-	mobList = []
+	mobList = [minecraft:enderman]
 	mobPermission = "BLACKLIST"
 	minTier = 1
 	enabled = true
@@ -44,7 +44,7 @@
 
 [[affixes]]
 	identifier = "infested"
-	mobList = []
+	mobList = [minecraft:enderman]
 	mobPermission = "BLACKLIST"
 	minTier = 1
 	enabled = false
