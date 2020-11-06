@@ -87,7 +87,8 @@
         ]
       },
       "glyph": {
-        "tint": "acccb3"
+        "tint": "acccb3",
+        "textureX": 32
       },
       "models": [
         {
@@ -110,7 +111,8 @@
         ]
       },
       "glyph": {
-        "tint": "2e7468"
+        "tint": "2e7468",
+        "textureX": 32
       },
       "models": [
         {
@@ -133,7 +135,8 @@
         ]
       },
       "glyph": {
-        "tint": "f3f7bb"
+        "tint": "f3f7bb",
+        "textureX": 32
       },
       "models": [
         {
