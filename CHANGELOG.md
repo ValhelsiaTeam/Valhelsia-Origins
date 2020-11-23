@@ -1,3 +1,71 @@
+# Changelog 1.1.2
+
+![100% center](https://zupimages.net/up/20/17/mfyp.png)
+**Forge 31.2.46**
+
+### Mods added:
++ Ars Nouveau
++ Extended Nether Backport
++ Magical Psi: Redux
++ MoreCrashInfo
++ Transport
++ Windowlogging
+
+### Mods removed:
+- DoubleSlabs
+- ChickenChunks
+
+### Updated:
+- Absent By Design 1.1.1
+- Archer's Paradox 1.0.0
+- Astral Sorcery 1.12.12
+- Atum 2.1.11
+- Block Carpentry 0.8.1
+- CodeChickenLib 3.3.2.383
+- CoFH Core 1.0.2
+- CraftingTweaks 11.0.1
+- CraftTweaker 6.0.0.45
+- Create 0.2.4e
+- Druidcraft 0.4.45
+- Ensorcellation 1.0.0
+- Fairy Lights 3.0.14
+- Farmer's Delight 0.2.3
+- Fast Leaf Decay v22.1
+- Health Overlay 1.0.2
+- Immersive Engineering 4.1.0-125
+- Immersive Posts 2.2.0
+- Inventory HUD+ 3.1.4
+- Kiwi 2.8.5
+- Macaw's Doors 1.0.1fix
+- MixinBootstrap 1.0.5
+- Mystical World 2.1.3
+- ObserverLib 1.3.2
+- PlaceableItems 4.2.2
+- Storage Drawers 7.0.3
+- Structurize 0.13.95-ALPHA
+- SwingThroughGrass 1.4.1
+- The Conjurer 1.0.13
+- Xaero's Minimap 20.27.3
+- Xaero's World Map 1.11.1
+
+### Changes:
+- Added enchantment level language entries for high level enchants (XI - XX).
+- Added Rune Portal language entry for the Strange mod (was missing).
+- Fix glyphs for End: Reborn blades in Tetra.
+- Adjusted CoFH Core config to be compatible with Optifine by default.
+- Disabled certain Champions affixes for Enderman to prevent them killing Endermites in an Enderman farm.
+- Added Druidcraft wood compatibility to the Farmer's Delight cutting board.
+- Added the Farmer's Delight knife tags to Mystical World knives.
+- Updated the JEI Integration and Kiwi tooltips.
+- Fixed typos in mud ball and mud brick kiln recipes.
+
+### Notes:
+The ChickenChunks mod was removed, but you can use the Create Integration Chunk Loader as a substitute, which works better - items were not despawning in chunks loaded with ChickenChunks.
+
+Existing Worlds: The Double Slabs mod was removed as using it caused lag and eventually a crash in all cases. Because of this, updating to v1.1.2 of Valhelsia: Origins will remove certain slabs from the world, which can potentially damage builds. Please be mindful of this when updating if you have an existing world.
+
+Existing Worlds: Because of the addition of new biomes, existing modded biomes may get shuffled around in existing worlds. If this happens to you, you can edit the biomes using WorldEdit or similar to repair them.
+
 # Changelog 1.1.1
 
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
