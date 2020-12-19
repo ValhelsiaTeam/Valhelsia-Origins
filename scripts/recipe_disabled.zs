@@ -16,7 +16,7 @@ import crafttweaker.api.item.IIngredient;
 
 // JAOPCA
 // (we don't have bronze in the pack, no idea why it adds it)
-<recipetype:crafting>.removeRecipe(<item:jaopca:storage_blocks.bronze>);
+//<recipetype:crafting>.removeRecipe(<item:jaopca:storage_blocks.bronze>);
 
 // Upgrade Aquatic
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_gray>);
