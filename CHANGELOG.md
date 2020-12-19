@@ -1,3 +1,39 @@
+# Changelog 1.1.3
+
+![100% center](https://zupimages.net/up/20/17/mfyp.png)
+**Forge 31.2.47**
+
+### Mods added:
++ Platforms
+
+### Mods removed:
+- Create Integration (not currently compatible with Create 0.3)
+- JAOPCA (not currently compatible with Create 0.3)
+
+### Updated:
+- Astral Sorcery 1.12.14
+- Atum 2 2.1.12
+- Create 0.3
+- CTM 1.1.2.14
+- Ender Storage 2.5.1.157
+- Engineer's Decor 1.1.4
+- Extended Nether Backport 4.3.2
+- Fairy Lights 3.0.15
+- Farmer's Delight 0.2.4b
+- Structurize 0.13.105
+- Xaero's Minimap 20.29.0
+- Xaero's World Map 1.11.4
+
+### Changes:
+Added some missing glass tags to improve compatibility with the Windowlogging mod.
+
+### Notes:
+This version includes a long-awaited massive update to the Create mod. Enjoy!
+
+The update to Extended Nether Backport has removed new Piglin spawns to assist with a severe lag issue. Existing ones may need to be killed manually.
+
+IMPORTANT! The removal of JAOPCA was required to allow Create to be updated, but can potentially cause you to lose some items if you have any from the JAOPCA mod. These are typically blocks of dust or gems, such as Blocks of Mana Dust, Blocks of Mundabitur Dust, etc.
+
 # Changelog 1.1.2
 
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
