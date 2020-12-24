@@ -1,3 +1,19 @@
+# Changelog 1.1.3a
+
+![100% center](https://zupimages.net/up/20/17/mfyp.png)
+** Forge 31.2.47**
+
+# Mods added:
++ JAOPCA
+
+### Updated:
+- Create 0.3a
+- Xaero's Minimap 20.29.1
+
+### Notes:
+A quick update to include hotfixes to the Create mod as well as add JAOPCA back since it quickly restored Create compatibility. 
+This will avoid the item loss mentioned previously (if you haven't updated to 1.1.3 already).
+
 # Changelog 1.1.3
 
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
