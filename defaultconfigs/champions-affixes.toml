@@ -93,7 +93,7 @@
 
 [[affixes]]
 	identifier = "reflective"
-	mobList = []
+	mobList = ["minecraft:enderman", "minecraft:blaze", "minecraft:wither_skeleton"]
 	mobPermission = "BLACKLIST"
 	minTier = 1
 	enabled = true
