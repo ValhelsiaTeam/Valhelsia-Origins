@@ -263,7 +263,7 @@
 		#Whether or not silkworm eggs drop from leaves
 		leafDrops = true
 		#Chance to spawn whenever a leaf is broken (1 in X)
-		leafDropChance = 65
+		leafDropChance = 200
 		#Chance for silkworm eggs to spawn a silkworm (1 in X, 1 is guaranteed)
 		successChance = 1
 		#Chance per tick for silkworms to grown (1 in X)
