@@ -14,6 +14,27 @@ import crafttweaker.api.item.IIngredient;
 <recipetype:blasting>.removeRecipe(<item:immersiveengineering:ingot_copper>);
 <recipetype:smelting>.removeRecipe(<item:immersiveengineering:ingot_copper>);
 
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:copper_ingot>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:copper_nugget>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:copper_ore>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:copper_block>);
+<recipetype:blasting>.removeRecipe(<item:mysticalworld:copper_ingot>);
+<recipetype:smelting>.removeRecipe(<item:mysticalworld:copper_ingot>);
+
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:silver_ingot>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:silver_nugget>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:silver_ore>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:silver_block>);
+<recipetype:blasting>.removeRecipe(<item:mysticalworld:silver_ingot>);
+<recipetype:smelting>.removeRecipe(<item:mysticalworld:silver_ingot>);
+
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:lead_ingot>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:lead_nugget>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:lead_ore>);
+<recipetype:crafting>.removeRecipe(<item:mysticalworld:lead_block>);
+<recipetype:blasting>.removeRecipe(<item:mysticalworld:lead_ingot>);
+<recipetype:smelting>.removeRecipe(<item:mysticalworld:lead_ingot>);
+
 // Upgrade Aquatic
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_gray>);
 <recipetype:crafting>.removeRecipe(<item:upgrade_aquatic:bedroll_pink>);
