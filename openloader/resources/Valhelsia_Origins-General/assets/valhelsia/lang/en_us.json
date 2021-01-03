@@ -1,6 +1,7 @@
 {
   "vaelzan.comment": "Language Overrides for Valhelsia: Origins",
   
+  "vaelzan.comment_sdrp": "Simple Discord Rich Presence",
   "sdrp.logo": "Valhelsia: Origins",
   "sdrp.overworld.in": "In Overworld",
   "sdrp.overworld": "Overworld",
@@ -13,11 +14,16 @@
 
   "create.recipe.sawing": "Mechanical Sawing",
 
+  "vaelzan.comment_blocks": "Blocks with missing or incorrect names:",
   "block.strange.rune_portal": "Rune Portal",
+  "block.absentbydesign.stairs_bricks_cracked": "Cracked Stone Brick Stairs",
+  "block.absentbydesign.wall_stonebrick_cracked": "Cracked Stone Brick Wall",
 
+  "vaelzan.comment_items": "Items with missing or incorrect names:",
   "item.jaopca.create_crushed_ores.aluminum": "Crushed Bauxite Ore",
   "item.create.crushed_aluminum_ore": "Crushed Bauxite Ore",
 
+  "vaelzan.comment_enchantments": " nchantment Levels missing names:",
   "enchantment.level.11": "XI",
   "enchantment.level.12": "XII",
   "enchantment.level.13": "XIII",
