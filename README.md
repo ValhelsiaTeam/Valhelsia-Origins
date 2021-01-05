@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://www.curseforge.com/minecraft/modpacks/valhelsia-origins">
-    <img border="0" alt="CurseForge" src="https://zupimages.net/up/20/29/b474.png">
+    <img border="0" alt="CurseForge" src="https://zupimages.net/up/20/53/jnh7.png">
   </a>
 </p>
 
 <p align="center">
 <strong>Valhelsia: Origins</strong> is a highly curated Minecraft 1.15.2 modpack with a focus on player creativity in both aesthetic and technical play.
 <p align="center">
-  <a href="https://discord.gg/rdfQuaM">
+  <a href="https://valhelsia.net/discord">
     <img src="https://img.shields.io/discord/396333981601234944?color=1b1b1b&label=Discord&logo=Discord&style=plastic">
   </a>
   <a href="https://twitter.com/valhelsia">
