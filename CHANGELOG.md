@@ -1,3 +1,46 @@
+# Changelog 1.1.4
+
+![100% center](https://zupimages.net/up/20/17/mfyp.png)
+** Forge 31.2.49**
+
+# Mods added:
++ Carry On
++ Chunk Loaders
++ Macaw's Bridges
++ Supplementaries
++ TableChair
+
+### Updated:
+- BlockCarpentry 0.8.2
+- Caelus API 2.0-beta4
+- CodeChickenLib 3.3.4.407
+- Create 0.3e
+- Culinary Construct 2.0.0.3
+- EnderStorage 2.5.2.164
+- Inventory Hud+ 3.2.1
+- JAOPCA 3.2.0.17
+- JEI Enchantment Info 1.2.1
+- Macaw's Doors 1.0.2
+- Macaw's Roofs 2.0.1
+- Macaw's Trapdoors 1.0.1
+- Platforms 1.6.8
+- Structurize 0.13.109
+- Xaero's Minimap 21.4.0
+- Xaero's World Map 1.12.0.2
+
+### Changes:
+- Blacklisted Endermen, Blazes, and Wither Skeletons from getting the Reflective Affix.
+- Reduce Silkworm drop chance from leaves from 1 in 65 to 1 in 200.
+- Added smelting and blasting recipes for lead and silver that use tags instead of items.
+- Removed some Mystical World metal recipes where they overlap with Immersive Engineering metal recipes (ingots, nuggets, etc.).
+- Added a recipe for Silver Dragon Scales that uses Silver Ingots.
+- Fixed knife tags.
+- Improved "Origins" heading in title screen.
+- Fixed the language entries for some blocks.
+- Test a bat loot table change to help with lag in long-term worlds.
+- Rework the Inventory HUD+ Config.
+- Blacklist Create, Waystones, and Tetra in Carry On.
+
 # Changelog 1.1.3a
 
 ![100% center](https://zupimages.net/up/20/17/mfyp.png)
