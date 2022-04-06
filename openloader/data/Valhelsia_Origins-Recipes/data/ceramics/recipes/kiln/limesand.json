@@ -1,9 +1,0 @@
-{
-  "type": "ceramics:kiln",
-  "ingredient": {
-    "item": "create:limesand"
-  },
-  "result": "create:limestone",
-  "experience": 0.1,
-  "cookingtime": 100
-}
