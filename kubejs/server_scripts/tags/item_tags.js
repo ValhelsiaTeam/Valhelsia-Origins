@@ -79,13 +79,6 @@ onEvent('tags.items', event => {
     'forbidden_arcanus:polished_soulless_sandstone',
   ]);
 
-  event.add('forge:sandstone/white', [
-    'byg:white_sandstone',
-    'byg:white_chiseled_sandstone',
-    'byg:white_cut_sandstone',
-    'byg:white_smooth_sandstone',
-  ]);
-
   // Leaf Carpets
   event.add('valhelsia:leaf_carpets', allLeafCarpets);
 
