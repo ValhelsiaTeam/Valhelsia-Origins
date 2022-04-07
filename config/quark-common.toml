@@ -1391,7 +1391,7 @@
 					"Is Blacklist" = true
 
 [client]
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Soul Candles" = true
 	"Microcrafting Helper" = true
