@@ -1,0 +1,53 @@
+{
+	"feature": "ecologics:coconut",
+	"placement": [
+		{
+			"count": {
+				"distribution": [
+					{
+						"data": 2,
+						"weight": 4
+					},
+					{
+						"data": 3,
+						"weight": 1
+					}
+				],
+				"type": "minecraft:weighted_list"
+			},
+			"type": "minecraft:count"
+		},
+		{
+			"type": "minecraft:in_square"
+		},
+		{
+			"max_water_depth": 0,
+			"type": "minecraft:surface_water_depth_filter"
+		},
+		{
+			"heightmap": "OCEAN_FLOOR",
+			"type": "minecraft:heightmap"
+		},
+		{
+			"predicate": {
+				"state": {
+					"Name": "ecologics:coconut_husk",
+					"Properties": {
+						"stage": "0"
+					}
+				},
+				"type": "minecraft:would_survive"
+			},
+			"type": "minecraft:block_predicate_filter"
+		},
+		{
+			"above_noise": 1,
+			"below_noise": 0,
+			"noise_level": 0.545,
+			"type": "minecraft:noise_threshold_count"
+		},
+		{
+			"type": "minecraft:biome"
+		}
+	]
+}
