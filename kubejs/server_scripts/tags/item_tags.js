@@ -25,7 +25,6 @@ onEvent('tags.items', event => {
     'minecraft:enchanted_golden_apple',
   ]);
 
-  event.add('forge:fruits/baobab', 'byg:baobab_fruit');
   event.add('forge:fruits/coconut', 'ecologics:coconut_slice');
   event.add('forge:fruits/melon', 'minecraft:melon_slice');
   event.add('forge:fruits/prickly_pear', 'ecologics:prickly_pear');
