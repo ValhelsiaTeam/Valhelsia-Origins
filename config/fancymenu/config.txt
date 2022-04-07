@@ -28,7 +28,7 @@ B:hidebranding = 'false';
 S:copyrightcolor = '#ffffff';
 B:hidelogo = 'true';
 B:hiderealmsnotifications = 'true';
-B:hideforgenotifications = 'false';
+B:hideforgenotifications = 'true';
 
 
 ##[mainmenu_splash]
